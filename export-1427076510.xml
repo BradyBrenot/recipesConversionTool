@@ -1,0 +1,2709 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rbook version='2.4'>
+<categories>
+  <category id='74' name='Appetizers'/>
+  <category id='75' name='Barbecue'/>
+  <category id='76' name='Breads &amp; Muffins'/>
+  <category id='77' name='Breakfasts'/>
+  <category id='78' name='Cakes'/>
+  <category id='79' name='Candy'/>
+  <category id='80' name='Casseroles'/>
+  <category id='81' name='Chicken'/>
+  <category id='82' name='Cookies'/>
+  <category id='107' name='curry'/>
+  <category id='83' name='Desserts'/>
+  <category id='84' name='Dips'/>
+  <category id='85' name='Drinks'/>
+  <category id='108' name='Indian'/>
+  <category id='86' name='Main'/>
+  <category id='87' name='Pasta'/>
+  <category id='88' name='Poultry'/>
+  <category id='89' name='Salads'/>
+  <category id='90' name='Seafood'/>
+  <category id='113' name='Slow Cooker'/>
+  <category id='91' name='Snacks'/>
+  <category id='92' name='Soups'/>
+  <category id='93' name='Squares'/>
+  <category id='94' name='Vegetables'/>
+  <category id='109' name='waffles'/>
+</categories>
+<users>
+  <user id='86' email='bradyb@gmail.com' username='Administrator' name='Administrator' password='92e9a22c51b6d059110e4cbbd8476609' invited='0' admin='1' readonly='0'/>
+  <user id='87' email='jsbrenot@shaw.ca' username='Sabrina' name='Sabrina' password='bb7aedfa61007447dd6efaf9f37641e3' invited='0' admin='1' readonly='0'/>
+  <user id='88' email='debempey@mts.net' username='Debbie' name='Debbie' password='df53ca268240ca76670c8566ee54568a' invited='0' admin='0' readonly='0'/>
+  <user id='89' email='aaaaapowderpuff@aaaaauniserve.com' username='MysteriousAllKnowingPie' name='CanNotDeleteThiosWhy' password='5f4dcc3b5aa765d61d8327deb882cf99' invited='0' admin='0' readonly='0'/>
+  <user id='95' email='brady@brenot.ca' username='Brady' name='Brady' password='7806060690617497e60476a32ed264ac' invited='0' admin='1' readonly='0'/>
+  <user id='99' email='johanbren@gmail.com' username='Johan' name='Johan' password='5f4dcc3b5aa765d61d8327deb882cf99' invited='0' admin='1' readonly='0'/>
+  <user id='100' email='tyler@brenot.ca' username='Tyler' name='Tyler' password='e3a8fff38d0b26f6a93e080f1a01aa1d' invited='0' admin='1' readonly='0'/>
+</users>
+<recipes>
+  <recipe serves="0" cooktime="0" preptime="0" id="103" uid="1212349435" name="Rhubarb Meringue" source=""  category="" preheat="350" createdate="2006-08-09 22:29:09" submittedby="87">
+    <ingredientset id="118" name="Ingredients">
+      <ingredient amount="1 cup" description="margarine or butter"/>
+      <ingredient amount="2 cups" description="flour"/>
+      <ingredient amount="2 tsp" description="sugar"/>
+      <ingredient amount="5 cups" description="rhubarb, cut up"/>
+      <ingredient amount="2 cups" description="sugar"/>
+      <ingredient amount="1 cup" description="cream"/>
+      <ingredient amount="6" description="egg yolks"/>
+      <ingredient amount="4 Tbsp" description="flour"/>
+      <ingredient amount="1/4 tsp" description="salt"/>
+      <ingredient amount="6" description="egg whites"/>
+      <ingredient amount="3/4 cup" description="sugar"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Blend margarine with 2 cups flour and 2 tsp sugar.  Pat into 9 x 13 pan and bake  for 10 minutes.]]></step>
+      <step><![CDATA[Mix rhubarb, 2 cups sugar, cream,  egg yolks, 4 Tbsp flour and salt.  Pour over crust and bake  for 45 minutes.]]></step>
+      <step><![CDATA[Beat egg whites into peaks.  Add 3/4 cup sugar, 2 Tbsp at a time.  Add vanilla.  Put on rhubarb mixture and top with coconut if desired.  Bake until light brown.]]></step>
+    </steps>
+    <rcs>
+      <rc id="83"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="104" uid="1212349436" name="Sweet &amp; Sour Pork" source=""  category="" preheat="" createdate="2006-08-09 22:41:02" submittedby="87">
+    <ingredientset id="119" name="Ingredients">
+      <ingredient amount="1 1/2 lbs" description="boneless pork, cubed"/>
+      <ingredient amount="1/2 cup" description="sugar"/>
+      <ingredient amount="1/3 cup" description="ketchup"/>
+      <ingredient amount="1 - 14 oz can" description="pineapple chunks"/>
+      <ingredient amount="1/4 cup" description="vinegar"/>
+      <ingredient amount="1/2 tsp" description="garlic powder"/>
+      <ingredient amount="2 Tbsp" description="corn starch"/>
+      <ingredient amount="1/3 cup" description="cold water"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cook meat in frying pan until brown and well cooked.]]></step>
+      <step><![CDATA[Mix sugar, ketchup, pineapple juice, vinegar and garlic powder in bowl.  Add to meat and bring to a boil.]]></step>
+      <step><![CDATA[Stir in cornstarch and cook until thickened.]]></step>
+      <step><![CDATA[Add pineapple chunks.]]></step>
+      <step><![CDATA[Serve over chow mein noodles or rice.]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="105" uid="1212349436" name="Lazy Cabbage Rolls" source=""  category="" preheat="350" createdate="2006-08-09 22:50:34" submittedby="87">
+    <ingredientset id="120" name="Ingredients">
+      <ingredient amount="8 cups" description="shredded cabbage"/>
+      <ingredient amount="1 cup" description="long grain rice"/>
+      <ingredient amount="2 tsp" description="salt"/>
+      <ingredient amount="sprinkle" description="pepper"/>
+      <ingredient amount="2 cans" description="tomato soup"/>
+      <ingredient amount="2 cans" description="water"/>
+      <ingredient amount="1" description="onion, chopped"/>
+      <ingredient amount="1 pkg" description="bacon, chopped"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Fry bacon, then add onion, cooking until  onion is soft.]]></step>
+      <step><![CDATA[Make layers:  cabbage, sprinkle of rice, soup/water mixture, onion/bacon mixture.]]></step>
+      <step><![CDATA[Poke with fork.]]></step>
+      <step><![CDATA[Halfway through cooking, stir.]]></step>
+      <step><![CDATA[Cook for 1 hour.]]></step>
+    </steps>
+    <rcs>
+      <rc id="80"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="106" uid="1212349437" name="Triple Berry Cheesecake Tart" source=""  category="" preheat="" createdate="2006-08-09 22:59:20" submittedby="87">
+    <ingredientset id="121" name="Ingredients">
+      <ingredient amount="1 1/4 cup" description="graham wafer crumbs"/>
+      <ingredient amount="1/4 cup" description="butter, melted"/>
+      <ingredient amount="1 - 250 g pkg" description="cream cheese, softened"/>
+      <ingredient amount="1/4 cup" description="sugar"/>
+      <ingredient amount="1 cup" description="cool whip, thawed"/>
+      <ingredient amount="2 cups" description="mixed fresh berries"/>
+      <ingredient amount="3/4 cup" description="boiling water"/>
+      <ingredient amount="1 - 85 g pkg" description="lemon jello"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix crumbs and butter in small bowl until well blended.  Press onto bottom and up side of 9 " tart pan.  Place in freezer while preparing filling.]]></step>
+      <step><![CDATA[Beat cream cheese and sugar until well blended.  Gently stir in cool whip. Spoon into crust.  Arrange berries over filling.  Cover and refrigerate.]]></step>
+      <step><![CDATA[Stir boiling water into dry jello until completely dissolved.  Add ice cubes and stir until ice is melted.  Refrigerated about 15 minutes or until slightly thickened.  Spoon jello mixture over fruit in pan.  Refrigerate 3 hours.]]></step>
+    </steps>
+    <rcs>
+      <rc id="83"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="107" uid="1212349437" name="Punch" source=""  category="" preheat="" createdate="2006-08-09 23:04:50" submittedby="87">
+    <ingredientset id="122" name="Ingredients">
+      <ingredient amount="7 cups" description="water"/>
+      <ingredient amount="2 cups" description="sugar"/>
+      <ingredient amount="2 cups" description="pineapple juice"/>
+      <ingredient amount="12 oz" description="frozen lemonade"/>
+      <ingredient amount="12 oz" description="frozen orange juice"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Heat sugar and water  just enough to dissolve sugar.]]></step>
+      <step><![CDATA[Mix all ingredients together.  Omit vodka if desired.]]></step>
+    </steps>
+    <rcs>
+      <rc id="85"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="108" uid="1212349437" name="Orange Dream Cheesecake" source=""  category="" preheat="" createdate="2006-08-09 23:14:09" submittedby="87">
+    <ingredientset id="123" name="Ingredients">
+      <ingredient amount="1/4 cup" description="graham crumbs"/>
+      <ingredient amount="2/3 cup" description="boiling water"/>
+      <ingredient amount="1 - 10oz pkg" description="orange jello powder"/>
+      <ingredient amount="1 cup" description="1% cottage cheese"/>
+      <ingredient amount="1- 250 g tub" description="light cream cheese spread"/>
+      <ingredient amount="2 cups" description="cool whip, thawed"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Sprinkle crumbs onto bottom of 9" springform pan sprayed with no stick cooking spray.]]></step>
+      <step><![CDATA[Stir boiling water into jello powder until completely dissolved.  Cool 5 minutes.  Pour into blender.  Add cheeses; cover.  Blend on medium speed until well blended, occasionally scraping down sides.  Pour into large bowl.  Add cool whip and stir until blended.]]></step>
+      <step><![CDATA[Pour into prepared pan; smooth top with spatula.  Refrigerate 4 hours or until set.  Remove side of pan just before serving.]]></step>
+    </steps>
+    <rcs>
+      <rc id="83"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="109" uid="1212349437" name="Butter Tarts" source=""  category="" preheat="350" createdate="2006-08-11 21:12:06" submittedby="87">
+    <ingredientset id="124" name="Ingredients">
+      <ingredient amount="1" description="egg, beaten"/>
+      <ingredient amount="1/3 cup" description="margarine"/>
+      <ingredient amount="1 cup" description="brown sugar"/>
+      <ingredient amount="2 Tbsp" description="milk"/>
+      <ingredient amount="1/2 cup" description="raisins"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Combine ingredients and pour into unbaked tart shells.  ]]></step>
+    </steps>
+    <rcs>
+      <rc id="83"/>
+    </rcs>
+<note><![CDATA[Makes 1 dozen]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="110" uid="1212349437" name="Gingersnaps" source=""  category="" preheat="350" createdate="2006-08-11 21:18:49" submittedby="87">
+    <ingredientset id="125" name="Ingredients">
+      <ingredient amount="1 1/2 cups" description="margarine"/>
+      <ingredient amount="2 cups" description="sugar"/>
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="1 cup" description="molasses"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+      <ingredient amount="1 tsp" description="salt"/>
+      <ingredient amount="4 cups" description="flour"/>
+      <ingredient amount="2 tsp" description="baking powder"/>
+      <ingredient amount="4 tsp" description="baking soda"/>
+      <ingredient amount="2 tsp" description="ginger"/>
+      <ingredient amount="1 tsp" description="ground cloves"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cream first five ingredients together.  Mix remaining ingredients together and add to the creamed mixture.]]></step>
+      <step><![CDATA[Roll into small balls.]]></step>
+      <step><![CDATA[Bake 10 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="82"/>
+    </rcs>
+<note><![CDATA[Makes 12 dozen]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="111" uid="1212349439" name="Curry Beef" source=""  category="" preheat="350" createdate="2006-08-11 21:27:58" submittedby="87">
+    <ingredientset id="126" name="Ingredients">
+      <ingredient amount="2 1/2 lbs" description="beef, cubed"/>
+      <ingredient amount="1/3 cup" description="flour"/>
+      <ingredient amount="1 Tbsp" description="oil"/>
+      <ingredient amount="14 oz can" description="crushed pineapple, drained"/>
+      <ingredient amount="14 oz can" description="tomato sauce"/>
+      <ingredient amount="14 oz can" description="peaches w/juice"/>
+      <ingredient amount="1 medium" description="onion, chopped"/>
+      <ingredient amount="1/2 cup" description="raisins"/>
+      <ingredient amount="1" description="garlic clove, minced"/>
+      <ingredient amount="1 Tbsp" description="beef boullion powder"/>
+      <ingredient amount="2 tsp" description="curry powder"/>
+      <ingredient amount="1/4 tsp" description="pepper"/>
+      <ingredient amount="1/8 tsp" description="cardamon"/>
+      <ingredient amount="1/8 tsp" description="ground coriander"/>
+      <ingredient amount="1/8 tsp" description="cumin"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Dredge beef in flour, then  brown in oil.]]></step>
+      <step><![CDATA[Put all ingredients into casserole dish or slow cooker.  Stir.]]></step>
+      <step><![CDATA[ Cook in slow cooker on low for 8 - 10 hours, or high 4 - 5 hours.  Cook in oven 1 1/2 hours]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+    </rcs>
+<note><![CDATA[Instead of last 5 spices, use curry paste to taste.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="112" uid="1212349439" name="Farmhouse Barbeque Biscuits" source=""  category="" preheat="375" createdate="2006-08-11 21:38:24" submittedby="87">
+    <ingredientset id="127" name="Biscuit Dough">
+      <ingredient amount="2 cups" description="flour"/>
+      <ingredient amount="1 Tbsp" description="baking powder"/>
+      <ingredient amount="1 tsp" description="salt"/>
+      <ingredient amount="1/4 cup" description="shortening"/>
+      <ingredient amount="3/4 cup" description="milk"/>
+    </ingredientset>
+    <ingredientset id="128" name="Filling">
+      <ingredient amount="1 lb" description="ground beef"/>
+      <ingredient amount="1/2 cup" description="ketchup"/>
+      <ingredient amount="3 Tbsp" description="brown sugar"/>
+      <ingredient amount="1 Tbsp" description="vinegar"/>
+      <ingredient amount="1/2 tsp" description="chili powder"/>
+      <ingredient amount="1 cup" description="shredded cheddar cheese"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[To make biscuits:  mix dry ingredients, cut in shortening, then mix in milk.]]></step>
+      <step><![CDATA[Roll out dough.  Cut circles to fit in muffin tin like tart shells.]]></step>
+      <step><![CDATA[For filling:  brown ground beef.  Mix next four ingredients and add to  beef.  ]]></step>
+      <step><![CDATA[Spoon beef mixture into each biscuit cup, using about 1/4 cup for each.]]></step>
+      <step><![CDATA[Sprinkle each cup with cheese.]]></step>
+      <step><![CDATA[Bake for 15 - 20 minutes.  Cool for 5 minutes before removing from tin.]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+    </rcs>
+<note><![CDATA[Makes 12.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="113" uid="1212349440" name="Peanut Brittle" source=""  category="" preheat="" createdate="2006-08-11 21:48:40" submittedby="87">
+    <ingredientset id="129" name="Ingredients">
+      <ingredient amount="3 cups" description="sugar"/>
+      <ingredient amount="1 cup" description="corn syrup"/>
+      <ingredient amount="1/2 cup" description="water"/>
+      <ingredient amount="4 1/2 cups" description="salted roasted peanuts"/>
+      <ingredient amount="4 Tbsp" description="unsalted butter"/>
+      <ingredient amount="2 tsp" description="vanilla"/>
+      <ingredient amount="2 tsp" description="baking soda"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Put sugar, corn syrup and water into pot.  Stir.  Cover and put on high heat.  Swirl around to get rid of any lumps of sugar.  ]]></step>
+      <step><![CDATA[Insert thermometer and keep on medium to high heat until 230 F - thread stage.]]></step>
+      <step><![CDATA[Cook two more minutes, then immediately add peanuts.  Cook until 300 F - hard crack stage.  Keep stirring for about 20 minutes.]]></step>
+      <step><![CDATA[Have two cookie sheets ready - spray with cooking spray.]]></step>
+      <step><![CDATA[Remove mixture from heat and add butter, vanilla and baking soda.  Stir.  Mixture will foam.]]></step>
+      <step><![CDATA[Pour onto cookie sheets and spread out thinly.]]></step>
+      <step><![CDATA[Let cool at least 1 hour.  Turn out onto counter or other surface and break apart.]]></step>
+    </steps>
+    <rcs>
+      <rc id="79"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="114" uid="1212349440" name="Cheddar Popovers" source=""  category="" preheat="450" createdate="2006-08-11 21:57:03" submittedby="87">
+    <ingredientset id="130" name="Ingredients">
+      <ingredient amount="1 cup" description="grated old cheddar cheese"/>
+      <ingredient amount="1 cup" description="flour"/>
+      <ingredient amount="1/4 tsp" description="salt"/>
+      <ingredient amount="1/8 tsp" description="cayenne pepper"/>
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="1 cup" description="milk"/>
+      <ingredient amount="1 Tbsp" description="butter, melted"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Lightly grease muffin cups.]]></step>
+      <step><![CDATA[Grate cheese, set aside.]]></step>
+      <step><![CDATA[Stir together flour, salt and cayenne.]]></step>
+      <step><![CDATA[Beat eggs, milk and butter together.]]></step>
+      <step><![CDATA[Make a well in dry ingredients and add egg mixture.  Beat until smooth.  ]]></step>
+      <step><![CDATA[Spoon about 1 Tbsp batter into each muffin cup.  Srpinkle with 1 Tbsp cheese.  Alternate batter and cheese until both are used up and cups are half filled.  ]]></step>
+      <step><![CDATA[Bake for 10 minutes.  Reduce heat to 350 and continue baking for 15 - 20 minutes.  ]]></step>
+    </steps>
+    <rcs>
+      <rc id="76"/>
+    </rcs>
+<note><![CDATA[If not baked long enough, popovers will collapse.  The best way to check for doneness is to remove a popover to see if the outside walls are firms.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="115" uid="1212349441" name="White Chocolate Cheesecake Dip" source=""  category="" preheat="" createdate="2006-08-11 22:58:56" submittedby="87">
+    <ingredientset id="131" name="Ingredients">
+      <ingredient amount="3 oz" description="white chocolate, coarsely chopped"/>
+      <ingredient amount="1/3 cup" description="10% cream"/>
+      <ingredient amount="1 250g pkg" description="cream cheese, softened"/>
+      <ingredient amount="1 Tbsp" description="sugar"/>
+      <ingredient amount="1 tsp" description="grated orange rind"/>
+      <ingredient amount="1 tsp" description="orange juice"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Melt chocolate with cream, stirring gently until smooth.  Let cool to room temperature.]]></step>
+      <step><![CDATA[Cream cheese with sugar.  Add rind and juice.  Stir in chocolate and cream mixture.]]></step>
+      <step><![CDATA[Serve with fresh fruit.]]></step>
+    </steps>
+    <rcs>
+      <rc id="84"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="116" uid="1212349442" name="Rhubarb Cake" source=""  category="" preheat="350" createdate="2006-08-11 23:03:09" submittedby="87">
+    <ingredientset id="132" name="Ingredients">
+      <ingredient amount="5 cups" description="rhubarb, cut up"/>
+      <ingredient amount="1 cup" description="sugar"/>
+      <ingredient amount="1 pkg" description="strawberry jello"/>
+      <ingredient amount="3 cups" description="white mini marshmallows"/>
+      <ingredient amount="1 pkg" description="white cake mix"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Spread cut up rhubarb into greased 9x13 pan.  Sprinkle sugar, jello and marshmallows over rhubarb.  Prepare cake mix and pour over rhubarb mixture.]]></step>
+      <step><![CDATA[Bake for 45 - 60 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="78"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="117" uid="1212349443" name="Caramel Apple Dip" source=""  category="" preheat="" createdate="2006-08-11 23:07:54" submittedby="87">
+    <ingredientset id="133" name="Ingredients">
+      <ingredient amount="1 250g pkg" description="cream cheese, softened"/>
+      <ingredient amount="1/4 cup" description="packed brown sugar"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+      <ingredient amount="1 tsp" description="caramel extract"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Blend ingredients together.  Use a a dip for apple slices.]]></step>
+    </steps>
+    <rcs>
+      <rc id="84"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="118" uid="1212349443" name="Cherry Dessert" source=""  category="" preheat="" createdate="2006-08-11 23:12:22" submittedby="87">
+    <ingredientset id="134" name="Crust">
+      <ingredient amount="2 1/2 cups" description="graham crumbs"/>
+      <ingredient amount="1/2 cup" description="margarine, melted"/>
+      <ingredient amount="2 Tbsp" description="sugar"/>
+    </ingredientset>
+    <ingredientset id="135" name="Filling">
+      <ingredient amount="1 can" description="cherry pie filling"/>
+      <ingredient amount="2 cups" description="whipping cream"/>
+      <ingredient amount="4 cups" description="white mini marshmallows"/>
+      <ingredient amount="1/2 tsp" description="vanilla"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Combine crumbs, margarine and sugar.  Pat into 9 x 13 pan.]]></step>
+      <step><![CDATA[Beat cream until stiff.  Add vanilla.  Fold in marshmallows. Freeze.]]></step>
+      <step><![CDATA[When ready to serve, remove from freezer and top with cherry pie filling. ]]></step>
+    </steps>
+    <rcs>
+      <rc id="83"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="119" uid="1212349443" name="Oriental Cabbage Salad" source=""  category="" preheat="" createdate="2006-08-11 23:19:22" submittedby="87">
+    <ingredientset id="136" name="Ingredients">
+      <ingredient amount="4 cups" description="shredded cabbage"/>
+      <ingredient amount="4" description="green onions, chopped"/>
+      <ingredient amount="1 pkg" description="instant noodles"/>
+      <ingredient amount="2 Tbsp" description="sesame seeds"/>
+      <ingredient amount="1/4 cup" description="toasted slivered almonds"/>
+    </ingredientset>
+    <ingredientset id="137" name="Dressing">
+      <ingredient amount="2 Tbsp" description="sugar"/>
+      <ingredient amount="3 Tbsp" description="vinegar"/>
+      <ingredient amount="1/4 cup" description="salad oil"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1/2 tsp" description="pepper"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Place cabbage and onions in bowl.  Add broken up dry soup noodles.  Sprinkle with seeds and nuts and stir.]]></step>
+      <step><![CDATA[Mix together dressing ingredients with seasoning pkg from noodles.  Pour over cabbage mixture and stir.  ]]></step>
+    </steps>
+    <rcs>
+      <rc id="89"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="120" uid="1212349444" name="Italian Dressing" source=""  category="" preheat="" createdate="2006-08-13 21:07:06" submittedby="87">
+    <ingredientset id="138" name="Ingredients">
+      <ingredient amount="1 1/3 cup" description="salad oil"/>
+      <ingredient amount="1/2 cup" description="vinegar"/>
+      <ingredient amount="2 Tbsp" description="parmesan cheese"/>
+      <ingredient amount="2 tsp" description="salt"/>
+      <ingredient amount="1/2 tsp" description="white pepper"/>
+      <ingredient amount="1/2 tsp" description="dry mustard powder"/>
+      <ingredient amount="1 1/2 tsp" description="garlic powder"/>
+      <ingredient amount="2 tsp" description="black pepper"/>
+      <ingredient amount="1 tsp" description="celery salt"/>
+      <ingredient amount="1/4 tsp" description="paprika"/>
+      <ingredient amount="1/2 tsp" description="basil"/>
+      <ingredient amount="1 Tbsp" description="sugar"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Place all ingredients in a shaker.  Shake and pour over salad.]]></step>
+    </steps>
+    <rcs>
+      <rc id="89"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="121" uid="1212349445" name="Sausage" source=""  category="" preheat="" createdate="2006-08-13 21:15:12" submittedby="87">
+    <ingredientset id="139" name="Ingredients">
+      <ingredient amount="4 lbs" description="hamburger"/>
+      <ingredient amount="1/4 cup" description="curing salt"/>
+      <ingredient amount="1 Tbsp" description="garlic salt"/>
+      <ingredient amount="1 Tbsp" description="onion salt"/>
+      <ingredient amount="1 1/2 tsp" description="pepper"/>
+      <ingredient amount="1 tsp" description="liquid smoke"/>
+      <ingredient amount="1 tsp" description="mustard seed"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix all ingredients together.  Chill for 24 hours, kneading every 8 hours.]]></step>
+      <step><![CDATA[Divide into 4 parts and shape into logs.  Place on broiler pan and put in oven on bottom rack for 1 1/2 hours.  Turn oven down to 150 and continue cooking for 6 1/2 hours longer.  ]]></step>
+      <step><![CDATA[Cool and  slice.]]></step>
+    </steps>
+    <rcs>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="122" uid="1212349445" name="Lime Punch" source=""  category="" preheat="" createdate="2006-08-13 21:20:20" submittedby="87">
+    <ingredientset id="140" name="Ingredients">
+      <ingredient amount="2 cans" description="frozen limeade"/>
+      <ingredient amount="2 cans" description="water"/>
+      <ingredient amount="1 tetra box" description="pineapple juice"/>
+      <ingredient amount="1/2-1 litre" description="gingerale"/>
+      <ingredient amount="2 litres" description="lime sherbert"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Put limeade, water and pineapple juice into punch bowl.  Stir.  Pour in gingerale.  Top with sherbert that has been slightly softened.  ]]></step>
+    </steps>
+    <rcs>
+      <rc id="85"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="123" uid="1212349445" name="Festive Punch" source=""  category="" preheat="" createdate="2006-08-13 21:22:55" submittedby="87">
+    <ingredientset id="141" name="Ingredients">
+      <ingredient amount="1 can" description="frozen cherry lemonade"/>
+      <ingredient amount="1 can" description="frozen pineapple orange juice"/>
+      <ingredient amount="2 litres" description="pink grapefruit pop"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Put frozen juices into punch bowl.  Add pop.  Fresca can be used instead of grapefruit pop.]]></step>
+    </steps>
+    <rcs>
+      <rc id="85"/>
+    </rcs>
+<note><![CDATA[Make a frozen ring with some fruit and juice.  Use to float in punch - looks nice.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="124" uid="1212349445" name="Cranberry Orange Coffee Cake" source=""  category="" preheat="350" createdate="2006-08-13 21:35:53" submittedby="87">
+    <ingredientset id="142" name="Crumb Topping">
+      <ingredient amount="3/4 cup" description="flour"/>
+      <ingredient amount="1/2 cup" description="sugar"/>
+      <ingredient amount="1/2 cup" description="margarine"/>
+    </ingredientset>
+    <ingredientset id="143" name="Cream Cheese Layer">
+      <ingredient amount="250 g pkg" description="cream cheese, softened"/>
+      <ingredient amount="1/3 cup" description="sugar"/>
+      <ingredient amount="1" description="egg"/>
+      <ingredient amount="1 tsp" description="vanilla extract"/>
+    </ingredientset>
+    <ingredientset id="144" name="Cake">
+      <ingredient amount="2 cups" description="flour"/>
+      <ingredient amount="1 cup" description="sugar"/>
+      <ingredient amount="1 1/2 tsp" description="baking powder"/>
+      <ingredient amount="1/2 tsp" description="baking soda"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="3/4 cup" description="orange juice"/>
+      <ingredient amount="1/4 cup" description="margarine, melted"/>
+      <ingredient amount="1 tsp" description="vanilla extract"/>
+      <ingredient amount="1" description="egg, beaten"/>
+      <ingredient amount="2 cups" description="coarsely chopped cranberries"/>
+      <ingredient amount="2 Tbsp" description="grated orange rind"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Crumb Topping:  stir together flour, sugar and margarine; set aside.]]></step>
+      <step><![CDATA[Cream Cheese Layer:  beat cream cheese and sugar until light and fluffy.  Beat in egg and vanilla; set aside.]]></step>
+      <step><![CDATA[Cake:  combine flour, sugar, baking powder, baking soda and salt.  Stir in juice, margarine, vanilla and egg.  Fold in cranberries and orange rind just until mixed.]]></step>
+      <step><![CDATA[Pour cake batter into a 9 inch springform pan.  Spread cream cheese mixture over cake batter.  Sprinkle with crumb topping.]]></step>
+      <step><![CDATA[Bake for 65 - 75 minutes or until top springs back when lightly touched in centre.]]></step>
+      <step><![CDATA[Let cool on rack for 15 minutes; remove outside ring and let cool completely.]]></step>
+    </steps>
+    <rcs>
+      <rc id="78"/>
+    </rcs>
+<note><![CDATA[Frozen or fresh cranberries may be used.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="125" uid="1212349446" name="Warm Taco Beef Appetizer" source=""  category="" preheat="" createdate="2006-08-13 21:46:38" submittedby="87">
+    <ingredientset id="145" name="Ingredients">
+      <ingredient amount="" description="lean ground beef"/>
+      <ingredient amount="" description="taco seasoning mix"/>
+      <ingredient amount="" description="green peppers"/>
+      <ingredient amount="" description="onions"/>
+      <ingredient amount="" description="diced tomatoes"/>
+      <ingredient amount="" description="cheddar cheese"/>
+      <ingredient amount="" description="sour cream"/>
+      <ingredient amount="" description="salsa"/>
+      <ingredient amount="" description="taco chips"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cook ground beef, drain.  Add seasoning mix.  Continue cooking as you would for tacos.]]></step>
+      <step><![CDATA[Put beef in deep pie plate or similar dish.  In the order given, put next four ingredients over beef.]]></step>
+      <step><![CDATA[Serve with sour cream, salsa and chips.]]></step>
+    </steps>
+    <rcs>
+      <rc id="74"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="126" uid="1212349446" name="Pancakes" source=""  category="" preheat="" createdate="2006-08-13 21:53:42" submittedby="87">
+    <ingredientset id="146" name="Ingredients">
+      <ingredient amount="1 1/2 cups" description="flour"/>
+      <ingredient amount="1 1/2 Tbsp" description="sugar"/>
+      <ingredient amount="3 tsp" description="baking powder"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1" description="egg, beaten"/>
+      <ingredient amount="1 3/4 cups" description="milk"/>
+      <ingredient amount="2 Tbsp" description="vegetable oil"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix together flour, sugar and baking powder.  Add liquids.  Beat only until combined.  ]]></step>
+      <step><![CDATA[Use 1/4 cup batter for each pancake.]]></step>
+    </steps>
+    <rcs>
+      <rc id="77"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="127" uid="1212349447" name="Whipped Shortbread 1" source=""  category="" preheat="325" createdate="2006-08-13 21:57:15" submittedby="87">
+    <ingredientset id="147" name="Ingredients">
+      <ingredient amount="1 cup" description="margarine"/>
+      <ingredient amount="1/2 cup" description="cornstarch"/>
+      <ingredient amount="1/2 cup" description="icing sugar"/>
+      <ingredient amount="1 1/2 cup" description="flour"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cream margarine.  Add rest of the ingredients. Mix.]]></step>
+      <step><![CDATA[Use cookie scoop for uniform cookies.]]></step>
+      <step><![CDATA[Bake for 15 - 20 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="82"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="128" uid="1212349447" name="Whipped Shortbread 2" source=""  category="" preheat="350" createdate="2006-08-13 22:01:03" submittedby="87">
+    <ingredientset id="148" name="Ingredients">
+      <ingredient amount="1 lb" description="butter"/>
+      <ingredient amount="1 cup" description="icing sugar"/>
+      <ingredient amount="1/2 cup" description="cornstarch"/>
+      <ingredient amount="3 cups" description="flour"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cream margarine.  Add rest of the ingredients.  Mix.]]></step>
+      <step><![CDATA[Use cookie scoop for uniform cookies.]]></step>
+      <step><![CDATA[Bake for 5 - 8 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="82"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="129" uid="1212349447" name="Chocolate Crinkles" source=""  category="" preheat="350" createdate="2006-08-18 22:54:21" submittedby="87">
+    <ingredientset id="149" name="Ingredients">
+      <ingredient amount="2 cups+2 Tbsp" description="flour"/>
+      <ingredient amount="2 tsp" description="baking powder"/>
+      <ingredient amount="1/4 tsp" description="salt"/>
+      <ingredient amount="1/2 cup" description="margarine, softened"/>
+      <ingredient amount="1 3/4 cups" description="sugar"/>
+      <ingredient amount="3" description="eggs"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+      <ingredient amount="4 squares" description="unsweetened chocolate"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix flour, baking powder and salt together.]]></step>
+      <step><![CDATA[Beat sugar and margarine until fluffy.  Beat in eggs, then vanilla and melted chocolate.  ]]></step>
+      <step><![CDATA[Gradually add flour mixture to sugar mixture, just until blended.  ]]></step>
+      <step><![CDATA[Refrigerate dough for 1 hour.]]></step>
+      <step><![CDATA[Shape dough into balls and roll in icing sugar.  Place on greased cookie sheet and bake for 8 - 12 minutes.  ]]></step>
+    </steps>
+    <rcs>
+      <rc id="82"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="130" uid="1212349447" name="Crispy Fudge" source=""  category="" preheat="" createdate="2006-08-18 22:59:07" submittedby="87">
+    <ingredientset id="150" name="Ingredients">
+      <ingredient amount="1/4 cup" description="margarine"/>
+      <ingredient amount="1/4 cup" description="corn syrup"/>
+      <ingredient amount="1/2 cup" description="icing sugar"/>
+      <ingredient amount="1 cup" description="chocolate chips"/>
+      <ingredient amount="2 cups" description="rice crispies"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Melt first four ingredients in microwave safe bowl or in saucepan over low heat.]]></step>
+      <step><![CDATA[Stir in rice crispies.]]></step>
+      <step><![CDATA[Put into 8 x 8 pan.  Cut into squares.]]></step>
+    </steps>
+    <rcs>
+      <rc id="93"/>
+    </rcs>
+<note><![CDATA[This is so good, you will want to double it and put it in a 9x13 pan!!]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="131" uid="1212349447" name="Black Forest Cheesecake" source=""  category="" preheat="" createdate="2006-08-18 23:10:09" submittedby="87">
+    <ingredientset id="151" name="Ingredients">
+      <ingredient amount="1 1/2 cups" description="chocolate wafer crumbs"/>
+      <ingredient amount="1/4 cup" description="margarine, melted"/>
+      <ingredient amount="2 pouches" description="Knox unflavoured gelatin"/>
+      <ingredient amount="3/4 cup" description="cold water"/>
+      <ingredient amount="1-19 oz can" description="cherry pie filling"/>
+      <ingredient amount="1 tsp" description="almond extract"/>
+      <ingredient amount="1/4 cup" description="water"/>
+      <ingredient amount="250 g" description="cream cheese"/>
+      <ingredient amount="1/3 cup" description="sugar"/>
+      <ingredient amount="1 cup" description="sour cream"/>
+      <ingredient amount="1 cup" description="whipping cream, whipped"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Combine wafer crumbs and margarine.  Press onto bottom of a 9" springform pan.]]></step>
+      <step><![CDATA[Sprinkle gelatin over cold water in a small saucepan; let stand 1 minute. Stir over low heat until gelatin is completely dissolved - about 5 minutes.  Remove from heat.]]></step>
+      <step><![CDATA[Add 1/4 cup of gelatin mixture into the cherry pie filling.  Mix almond extract and 1/4 cup water together.  Stir 2 tsp of this into pie filling.  Pour cherry mixture over crust and refrigerate until set - about 30 minutes.]]></step>
+      <step><![CDATA[Beat cream cheese and sugar together  until light and fluffy; stir in sour cream.  Add remaining gelatin mixture and almond extract mixture.  Fold in whipped cream; spread over cherry base.  Refrigerate until set - about 4 hours or overnight.]]></step>
+      <step><![CDATA[Remove side of pan from cheesecake and garnish with chocolate shavings and cherry pie filling.]]></step>
+    </steps>
+    <rcs>
+    </rcs>
+<note><![CDATA[Instead of almond extract and water, you may use 1/3 cup almond flavoured liqueur.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="132" uid="1212349447" name="Fruity Dessert" source=""  category="" preheat="" createdate="2006-08-18 23:17:42" submittedby="87">
+    <ingredientset id="152" name="Ingredients">
+      <ingredient amount="2 cups" description="graham crumbs"/>
+      <ingredient amount="1/2 cup" description="margarine, melted"/>
+      <ingredient amount="250 g" description="cream cheese"/>
+      <ingredient amount="1/4 cup" description="sugar"/>
+      <ingredient amount="1 cup" description="crushed fruit"/>
+      <ingredient amount="1 tub" description="cool whip"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix crumbs and margarine together.  Press into 9 x 13 pan.]]></step>
+      <step><![CDATA[Cream sugar and cream cheese together.  Mix in crushed fruit.  You may use strawberries, raspberries, canned crushed pineapple etc.  Fold in tub of cool whip.  Spread over crust.]]></step>
+      <step><![CDATA[Refrigerate until firm, then cut.  You may also put in freezer until firm enough to cut.]]></step>
+    </steps>
+    <rcs>
+      <rc id="83"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="133" uid="1212349447" name="Cranberry Banana Bread" source=""  category="" preheat="350" createdate="2006-08-18 23:25:24" submittedby="87">
+    <ingredientset id="153" name="Ingredients">
+      <ingredient amount="1 cup" description="sugar"/>
+      <ingredient amount="1/2 cup" description="margarine, softened"/>
+      <ingredient amount="1 cup" description="mashed bananas"/>
+      <ingredient amount="1/4 cup" description="milk"/>
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="2 cups" description="flour"/>
+      <ingredient amount="2 tsp" description="baking powder"/>
+      <ingredient amount="1-170 g pkg" description="craisins"/>
+      <ingredient amount="1/4 cup" description="chopped nuts"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cream together sugar and margarine.]]></step>
+      <step><![CDATA[Add eggs and bananas.  Mix together flour and baking powder.  Add alternately with milk to sugar mixture.]]></step>
+      <step><![CDATA[Fold in craisins and nuts.]]></step>
+      <step><![CDATA[Pour into greased loaf pan.  Bake 1 hour 10 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="76"/>
+    </rcs>
+<note><![CDATA[Instead of loaf, will make 12 muffins.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="134" uid="1212349447" name="Banana Coconut Loaf" source=""  category="" preheat="350" createdate="2006-08-18 23:33:22" submittedby="87">
+    <ingredientset id="154" name="Ingredients">
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="1 cup" description="sugar"/>
+      <ingredient amount="1/2 cup" description="margarine, melted"/>
+      <ingredient amount="1 cup" description="mashed bananas"/>
+      <ingredient amount="1/2 tsp" description="almond extract"/>
+      <ingredient amount="1 1/2 cup" description="flour"/>
+      <ingredient amount="1 1/2 tsp" description="baking powder"/>
+      <ingredient amount="1/2 tsp" description="baking soda"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1/2 cup" description="chopped nuts"/>
+      <ingredient amount="1/2 cup" description="marachino cherries"/>
+      <ingredient amount="1/2 cup" description="coconut"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cream margarine and sugar together.   Beat in eggs.  Add bananas and almond extract.  ]]></step>
+      <step><![CDATA[Combine flour, baking powder, baking soda and salt.  Add to margarine mixture.  Stir.  Fold in coconut, nuts and cherries.]]></step>
+      <step><![CDATA[Pour into greased loaf pan. Bake for 1 hour.]]></step>
+    </steps>
+    <rcs>
+      <rc id="76"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="135" uid="1212349447" name="Pumpkin Cream Cheese Loaf" source=""  category="" preheat="350" createdate="2006-08-18 23:40:39" submittedby="87">
+    <ingredientset id="155" name="Ingredients">
+      <ingredient amount="4 oz" description="cream cheese"/>
+      <ingredient amount="1/4 cup" description="margarine"/>
+      <ingredient amount="1 1/4 cup" description="sugar"/>
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="1 cup" description="canned pumpkin"/>
+      <ingredient amount="1 3/4 cup" description="flour"/>
+      <ingredient amount="1 tsp" description="baking soda"/>
+      <ingredient amount="1/4 tsp" description="baking powder"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1/2 tsp" description="cinnamon"/>
+      <ingredient amount="1/4 tsp" description="ground cloves"/>
+      <ingredient amount="1/2 cup" description="chopped nuts"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cream together softened cream cheese, margarine and sugar.  ]]></step>
+      <step><![CDATA[Beat in eggs, one at a time, then add pumpkin.]]></step>
+      <step><![CDATA[In another bowl combine rest of the ingredients.  Pour all at once into batter.  Stir.]]></step>
+      <step><![CDATA[Pour into greased loaf pan.  Bake for 60 - 70 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="76"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="136" uid="1212349447" name="Snowballs" source=""  category="" preheat="" createdate="2006-08-26 00:05:06" submittedby="87">
+    <ingredientset id="156" name="Ingredients">
+      <ingredient amount="1/4 cup" description="margarine"/>
+      <ingredient amount="1 1/2 cup" description="icing sugar"/>
+      <ingredient amount="1 1/2 cup" description="coconut"/>
+      <ingredient amount="" description="marachino cherries"/>
+      <ingredient amount="" description="graham crumbs"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix first three ingredients together.  Take small amount and make ball.  Flatten out and put cherry in middle.  Roll up to enclose cherry.  Roll in graham crumbs.]]></step>
+    </steps>
+    <rcs>
+      <rc id="83"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="137" uid="1212349447" name="Turkey Pot Pie" source=""  category="" preheat="400" createdate="2006-08-26 00:14:49" submittedby="87">
+    <ingredientset id="157" name="Ingredients">
+      <ingredient amount="1" description="onion, chopped"/>
+      <ingredient amount="2 cups" description="carrots, chopped"/>
+      <ingredient amount="2 cups" description="celery, chopped"/>
+      <ingredient amount="5 Tbsp" description="butter or margarine"/>
+      <ingredient amount="1/3 cup" description="flour"/>
+      <ingredient amount="1 cup" description="half&amp;half cream"/>
+      <ingredient amount="1 1/4 tsp" description="salt"/>
+      <ingredient amount="1/4 tsp" description="pepper"/>
+      <ingredient amount="10 oz" description="frozen peas, thawed &amp; drained"/>
+      <ingredient amount="2 - 9\&quot;" description="pie crusts"/>
+      <ingredient amount="1" description="egg yolk"/>
+      <ingredient amount="" description="cooked turkey"/>
+      <ingredient amount="1 1/2 cups" description="turkey or chicken broth"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Add onions, carrots and celery to broth.  Cover and simmer 10 minutes.  Drain vegetables, reserving broth.]]></step>
+      <step><![CDATA[In saucepan over medium heat, melt butter and stir in flour until blended.  Gradually stir in half &amp; half cream, reserved broth, salt and pepper.  ]]></step>
+      <step><![CDATA[Cook, stirring constantly, until mixture thickens.  Pour over vegetables in saucepan.  Stir in desired amount of turkey and peas.  ]]></step>
+      <step><![CDATA[Pour mixture into 9 x 13 pan.  Cover with pie crust.  Beat egg yolk with 1 tsp water and brush over pie crust.]]></step>
+      <step><![CDATA[Bake 40 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="138" uid="1212349447" name="Baked Caramel Corn" source=""  category="" preheat="250" createdate="2006-08-26 00:23:48" submittedby="87">
+    <ingredientset id="214" name="Ingredients">
+      <ingredient amount="1 cup" description="margarine"/>
+      <ingredient amount="2 cups" description="brown sugar"/>
+      <ingredient amount="1/2 cup" description="corn syrup"/>
+      <ingredient amount="1 tsp" description="salt"/>
+      <ingredient amount="1/2 tsp" description="baking soda"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+      <ingredient amount="1 1/2 cups" description="unpopped popcorn"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Pop popcorn.]]></step>
+      <step><![CDATA[Melt margarine, brown sugar, corn syrup and salt together.  Be generous with sugar and syrup when measuring.]]></step>
+      <step><![CDATA[Bring to a boil, stirring constantly, then boil 5 minutes without stirring.  Remove from heat.]]></step>
+      <step><![CDATA[Stir in baking soda and vanilla.]]></step>
+      <step><![CDATA[Gradually pour over popped corn, mixing well.]]></step>
+      <step><![CDATA[Bake for 1 hour, stirring every 15 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="91"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="140" uid="1212349448" name="New Twist on Nuts &amp; Bolts" source="Debbie"  category="" preheat="" createdate="2006-08-26 23:49:24" submittedby="87">
+    <ingredientset id="160" name="Ingredients">
+      <ingredient amount="1" description="ice cream pail full of :"/>
+      <ingredient amount="" description="bugles"/>
+      <ingredient amount="" description="shreddies"/>
+      <ingredient amount="" description="pretzels"/>
+      <ingredient amount="" description="mixed nuts"/>
+      <ingredient amount="" description="Cheerios"/>
+      <ingredient amount="" description="popcorn"/>
+      <ingredient amount="" description="fish crackers"/>
+      <ingredient amount="" description="small crackers"/>
+      <ingredient amount="" description="anything else you  want"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Fill the ice cream pail and dump into a large container.]]></step>
+      <step><![CDATA[Sprinkle with 1 package of dry ranch dressing and 3 Tbsp of dry dill.]]></step>
+      <step><![CDATA[Heat 1/2 cup of oil (canola or olive oil work) until very hot.  Pour oil on top of ingredients and stir until all mixed.]]></step>
+      <step><![CDATA[Put everything back into the ice cream pail and enjoy . . . . yummy!]]></step>
+    </steps>
+    <rcs>
+      <rc id="91"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="142" uid="1212349448" name="Sweet Potato Casserole" source=""  category="" preheat="350" createdate="2006-08-30 21:39:31" submittedby="87">
+    <ingredientset id="161" name="Ingredients">
+      <ingredient amount="3 cups" description="sweet potatoes"/>
+      <ingredient amount="1/2 cup" description="white sugar"/>
+      <ingredient amount="2" description="eggs, beaten"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1/4 cup" description="butter or margarine, melted"/>
+      <ingredient amount="1/2 cup" description="milk"/>
+      <ingredient amount="1 1/2 tsp" description="vanilla"/>
+    </ingredientset>
+    <ingredientset id="162" name="Topping">
+      <ingredient amount="1/2 cup" description="brown sugar"/>
+      <ingredient amount="1/3 cup" description="flour"/>
+      <ingredient amount="1/3 cup" description="butter or margarine, melted"/>
+      <ingredient amount="1 cup" description="chopped pecans"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cook sweet potatoes.  Mash.]]></step>
+      <step><![CDATA[Add next six ingredients.  Stir together and place in casserole dish.]]></step>
+      <step><![CDATA[Mix topping ingredients together.  Spread over sweet potato mixture.]]></step>
+      <step><![CDATA[Bake 30 minutes or until browned.]]></step>
+    </steps>
+    <rcs>
+      <rc id="80"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="143" uid="1212349448" name="Hash Brown Omelette" source=""  category="" preheat="" createdate="2006-08-30 21:48:25" submittedby="87">
+    <ingredientset id="163" name="Ingredients">
+      <ingredient amount="6 slices" description="bacon, diced"/>
+      <ingredient amount="3 cups" description="frozen hash browns"/>
+      <ingredient amount="1/2 cup" description="chopped green pepper"/>
+      <ingredient amount="1/3 cup" description="onion relish"/>
+      <ingredient amount="6" description="eggs"/>
+      <ingredient amount="1/4 cup" description="milk"/>
+      <ingredient amount="" description="salt, to taste"/>
+      <ingredient amount="" description="pepper, to taste"/>
+      <ingredient amount="1 cup" description="shredded cheddar cheese"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[In large skillet, cook bacon until desired crispness.  Remove from skillet and drain.  Remove all but 2 Tbsp bacon drippings from skillet.  ]]></step>
+      <step><![CDATA[Add hash browns and cook until heated through, stirring occasionally.  Add green pepper and oinion relish.  Cover and cook on medium heat another 10 minutes until heated through and underside begins to brown.]]></step>
+      <step><![CDATA[Beat eggs and milk together.  Season with salt and pepper.  Stir in bacon and cheese.  Pour evenly over hash browns and help mixture to seep through using spatula.]]></step>
+      <step><![CDATA[Cover and cook on low heat 8 - 10 minutes or until eggs are set and cheese is melted.  ]]></step>
+      <step><![CDATA[Loosen edges and cut into wedges.]]></step>
+    </steps>
+    <rcs>
+      <rc id="77"/>
+    </rcs>
+<note><![CDATA[1/2 cup chopped ham may be used instead of bacon.
+Chopped onion can be used instead of onion relish.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="144" uid="1212349448" name="Rhubarb Cream Cheese Pie" source=""  category="" preheat="425" createdate="2006-08-30 21:57:26" submittedby="87">
+    <ingredientset id="164" name="Ingredients">
+      <ingredient amount="1/4 cup" description="cornstarch"/>
+      <ingredient amount="1 cup" description="sugar"/>
+      <ingredient amount="pinch" description="salt"/>
+      <ingredient amount="1/2 cup" description="water"/>
+      <ingredient amount="3 cups" description="rhubarb, cut up"/>
+      <ingredient amount="1" description="unbaked pie crust"/>
+      <ingredient amount="8 oz pkg" description="cream cheese, softened"/>
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="1/2 cup" description="sugar"/>
+      <ingredient amount="" description="whipped cream"/>
+      <ingredient amount="" description="sliced almonds"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[In saucepan, combine cornstarch, sugar and salt.  Add water and stir until thoroughly combined.  Add rhubarb.]]></step>
+      <step><![CDATA[Cook,  stirring often until mixture boils and thickens.  ]]></step>
+      <step><![CDATA[Pour into pie shell and bake for 10 minutes.]]></step>
+      <step><![CDATA[Meanwhile, beat cream cheese, eggs and sugar until smooth.  Pour over pie.]]></step>
+      <step><![CDATA[Return to oven, reduce heat to 325.]]></step>
+      <step><![CDATA[Bake for 35 minutes or until set.]]></step>
+      <step><![CDATA[Cool several hours or overnight.  Garnish with whipped cream and sliced almonds.]]></step>
+    </steps>
+    <rcs>
+      <rc id="83"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="145" uid="1212349448" name="Raspberry Coconut Tarts" source=""  category="" preheat="350" createdate="2006-08-30 22:01:15" submittedby="87">
+    <ingredientset id="165" name="Ingredients">
+      <ingredient amount="" description="raspberry jam"/>
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="3/4 cup" description="sugar"/>
+      <ingredient amount="1 tsp" description="cornstarch"/>
+      <ingredient amount="1/4 tsp" description="salt"/>
+      <ingredient amount="1/4 cup" description="margarine, melted"/>
+      <ingredient amount="1 Tbsp" description="lemon juice"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+      <ingredient amount="1 1/2 cups" description="coconut"/>
+      <ingredient amount="12" description="tart shells"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix all ingredients except jam together.]]></step>
+      <step><![CDATA[Spoon 1/2 tsp jam into each tart shell.]]></step>
+      <step><![CDATA[Pour mixture into tart shells.]]></step>
+      <step><![CDATA[Bake 15 -20 minutes or until brown.]]></step>
+    </steps>
+    <rcs>
+      <rc id="83"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="146" uid="1212349448" name="Broccoli Salad" source=""  category="" preheat="" createdate="2006-08-31 22:31:13" submittedby="87">
+    <ingredientset id="166" name="Ingredients">
+      <ingredient amount="1/2 cup" description="sliced or slivered almonds"/>
+      <ingredient amount="2 Tbsp" description="sesame seeds"/>
+      <ingredient amount="1" description="stalk broccoli, chopped"/>
+      <ingredient amount="3/4 lb" description="bean sprouts"/>
+      <ingredient amount="2 cups" description="fresh mushrooms, sliced"/>
+      <ingredient amount="2" description="green onions, chopped"/>
+      <ingredient amount="1/4 cup" description="sunflower seeds"/>
+      <ingredient amount="2 cups" description="chow mein noodles"/>
+    </ingredientset>
+    <ingredientset id="167" name="Dressing">
+      <ingredient amount="1/2 cup" description="vegetable oil"/>
+      <ingredient amount="3 Tbsp" description="vinegar"/>
+      <ingredient amount="2 Tbsp" description="soy sauce"/>
+      <ingredient amount="1 Tbsp" description="sugar"/>
+      <ingredient amount="1 tsp" description="sesame oil"/>
+      <ingredient amount="1 clove" description="garlic, minced"/>
+      <ingredient amount="1/2 tsp" description="pepper"/>
+      <ingredient amount="pinch" description="salt"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[In skillet, toast almonds and sesame seeds over medium heat, stirring occasionally, for about 8 minutes or until fragrant.  Set aside.]]></step>
+      <step><![CDATA[In large bowl, combine broccoli, bean sprouts, mushrooms, onions and sunflower seeds.  Add toasted almonds and sesame seeds.]]></step>
+      <step><![CDATA[In small bowl, whisk together all dressing ingredients.  ]]></step>
+      <step><![CDATA[Toss dressing with broccoli mixture.  Sprinkle chow mein noodles over top.]]></step>
+    </steps>
+    <rcs>
+      <rc id="89"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="147" uid="1212349448" name="Banana Peanut Butter Chip Muffins" source=""  category="" preheat="375" createdate="2006-08-31 22:39:29" submittedby="87">
+    <ingredientset id="168" name="Ingredients">
+      <ingredient amount="1 1/2 cup" description="flour"/>
+      <ingredient amount="1/2 cup" description="sugar"/>
+      <ingredient amount="1 tsp" description="baking powder"/>
+      <ingredient amount="1 tsp" description="baking soda"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1" description="egg"/>
+      <ingredient amount="1/2 cup" description="margarine, melted"/>
+      <ingredient amount="1 1/2 cups" description="banana, mashed"/>
+      <ingredient amount="1 pkg" description="peanut butter chips"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Beat egg, margarine and banana together.]]></step>
+      <step><![CDATA[Combine first five ingredients and add to banana mixture.]]></step>
+      <step><![CDATA[Mix in half of the peanut butter chips.]]></step>
+      <step><![CDATA[Scoop into muffin tin.]]></step>
+      <step><![CDATA[Sprinkle remaining chips on top of each muffin.]]></step>
+      <step><![CDATA[Bake for 20 - 25 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="76"/>
+    </rcs>
+<note><![CDATA[Makes 12 muffins.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="149" uid="1212349448" name="Carrot &amp; Pineapple Muffins" source=""  category="" preheat="350" createdate="2007-04-06 17:05:10" submittedby="87">
+    <ingredientset id="170" name="Ingredients">
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="3/4 cup" description="vegetable oil"/>
+      <ingredient amount="1 cup" description="sugar"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+      <ingredient amount="1 cup" description="flour"/>
+      <ingredient amount="1/2 tsp" description="baking soda"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1 tsp" description="baking powder"/>
+      <ingredient amount="1/4 tsp" description="cinnamon"/>
+      <ingredient amount="1 cup" description="carrots, grated"/>
+      <ingredient amount="1/4 cup" description="crushed pineapple w/juice"/>
+      <ingredient amount="1/4 cup" description="chopped nuts"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[In a large bowl mix eggs, oil, sugar and vanilla together.]]></step>
+      <step><![CDATA[In another bowl blend together flour, baking soda, salt, baking powder and cinnamon.  Add to egg mixture.]]></step>
+      <step><![CDATA[Gently stir in carrots and pineapple until just blended.  ]]></step>
+      <step><![CDATA[Fill muffin cups two thirds full.]]></step>
+      <step><![CDATA[Bake for 25 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="76"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="150" uid="1212349448" name="Easy Cheesy Chicken Bake" source=""  category="" preheat="400" createdate="2007-04-06 17:12:33" submittedby="87">
+    <ingredientset id="171" name="Ingredients">
+      <ingredient amount="1 pkg" description="stove top stuffing mix(chicken)"/>
+      <ingredient amount="1 1/2 lb" description="chicken breasts, cut up &amp; cooked"/>
+      <ingredient amount="4 cups" description="broccoli"/>
+      <ingredient amount="1 can" description="cream of chicken soup"/>
+      <ingredient amount="1/2 cup" description="milk"/>
+      <ingredient amount="1 1/2 cups" description="shredded cheddar cheese"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Prepare stuffing mix as directed on package; set aside.]]></step>
+      <step><![CDATA[Mix chicken and broccoli in 13 x 9 baking dish.  Stir in soup, milk and cheese; top with the prepared stuffing.]]></step>
+      <step><![CDATA[Bake 30 minutes or until heated through.]]></step>
+    </steps>
+    <rcs>
+      <rc id="81"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="151" uid="1212349448" name="Pumpkin Pecan Pancakes" source=""  category="" preheat="" createdate="2007-04-06 17:22:20" submittedby="87">
+    <ingredientset id="172" name="Ingredients">
+      <ingredient amount="1 cup" description="milk"/>
+      <ingredient amount="1/3 cup" description="pureed pumpkin"/>
+      <ingredient amount="2 Tbsp" description="melted butter"/>
+      <ingredient amount="1" description="egg"/>
+      <ingredient amount="1/4 cup" description="crushed pecans"/>
+      <ingredient amount="1 1/4 cup" description="flour"/>
+      <ingredient amount="2 Tbsp" description="sugar"/>
+      <ingredient amount="2 tsp" description="baking powder"/>
+      <ingredient amount="1/2 tsp" description="cinnamon"/>
+      <ingredient amount="1/8 tsp" description="nutmeg"/>
+      <ingredient amount="pinch" description="cloves"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[In a large bowl, stir together milk, pumpkin, butter and egg.]]></step>
+      <step><![CDATA[In another bowl, mix all dry ingredients together.  Add dry ingredients to liquid ingredients.]]></step>
+      <step><![CDATA[In a hot skillet with small amount of butter, pour batter into desired size of pancake.  Cook approx. 3 minutes per side.]]></step>
+    </steps>
+    <rcs>
+      <rc id="77"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="152" uid="1212349449" name="Creamy Mashed Potato Soup" source=""  category="" preheat="" createdate="2007-04-06 17:27:13" submittedby="87">
+    <ingredientset id="173" name="Ingredients">
+      <ingredient amount="2 cups" description="mashed potatoes"/>
+      <ingredient amount="1/2 cup" description="sour cream"/>
+      <ingredient amount="2 cups" description="milk"/>
+      <ingredient amount="3/4 cup" description="veggies (cauliflower, broccoli etc)"/>
+      <ingredient amount="1 can" description="cream of mushroom soup"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[In a large saucepan, mix all ingredients together.  ]]></step>
+      <step><![CDATA[Heat over medium heat until hot.]]></step>
+    </steps>
+    <rcs>
+      <rc id="92"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="153" uid="1212349449" name="Chocolate Chip &amp; Cranberry Cookies" source=""  category="" preheat="350" createdate="2007-04-06 17:36:39" submittedby="87">
+    <ingredientset id="174" name="Ingredients">
+      <ingredient amount="1 1/2 cups" description="quick oatmeal"/>
+      <ingredient amount="1 cup" description="flour"/>
+      <ingredient amount="1/2 tsp" description="baking soda"/>
+      <ingredient amount="1/2 tsp" description="baking powder"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1/2 cup" description="butter, softened"/>
+      <ingredient amount="zest" description="1 orange"/>
+      <ingredient amount="3/4 cup" description="brown sugar"/>
+      <ingredient amount="1/4 cup" description="white sugar"/>
+      <ingredient amount="1" description="egg, lightly beaten"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+      <ingredient amount="3/4 cup" description="chocolate chips"/>
+      <ingredient amount="1/2 cup" description="dried cranberries"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix dry ingredients together.]]></step>
+      <step><![CDATA[Cream butter with orange zest and beat in sugars until fluffy.]]></step>
+      <step><![CDATA[Add egg and vanilla.  Beat until blended.]]></step>
+      <step><![CDATA[Stir in dry ingredients.]]></step>
+      <step><![CDATA[Stir in chocolate chips and cranberries.]]></step>
+      <step><![CDATA[Roll into balls and place on greased cookie sheets.  Flatten with a fork]]></step>
+      <step><![CDATA[Bake 8 - 11 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="82"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="154" uid="1212349449" name="Ham &amp; Hashbrown Casserole" source=""  category="" preheat="350" createdate="2007-04-06 17:42:04" submittedby="87">
+    <ingredientset id="175" name="Ingredients">
+      <ingredient amount="4 cups" description="hash browns, thawed"/>
+      <ingredient amount="1 cup" description="shredded cheddar cheese"/>
+      <ingredient amount="" description="minced green onion"/>
+      <ingredient amount="1 1/2 cup" description="cubed ham, cooked"/>
+      <ingredient amount="1/4 cup" description="milk"/>
+      <ingredient amount="1/2 cup" description="Miracle Whip"/>
+      <ingredient amount="" description="salt, pepper to taste"/>
+      <ingredient amount="2 cups" description="crushed corn flakes"/>
+      <ingredient amount="1 Tbsp" description="melted butter"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix all ingredients together.]]></step>
+      <step><![CDATA[Combine corn flakes and melted butter.  Sprinkle on top of casserole.]]></step>
+      <step><![CDATA[Bake for 40-50 minutes or until browned.]]></step>
+    </steps>
+    <rcs>
+      <rc id="80"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="155" uid="1212349449" name="Strawberry Stripe Refrigerator Cake" source=""  category="" preheat="350" createdate="2007-04-06 22:11:42" submittedby="87">
+    <ingredientset id="176" name="Ingredients">
+      <ingredient amount="1 pkg" description="white cake mix"/>
+      <ingredient amount="2-10 oz pkgs" description="frozen strawberries,sweetened &amp; sliced"/>
+      <ingredient amount="1 pkg(4serving)" description="vanilla instant pudding"/>
+      <ingredient amount="1 cup" description="milk"/>
+      <ingredient amount="1 cup" description="whipping cream, whipped"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Bake cake according to package directions.  Use 9 x 13 pan.  Cool.]]></step>
+      <step><![CDATA[Poke holes 1" apart on top of cake using wooden spoon.]]></step>
+      <step><![CDATA[Puree strawberries.  Spoon evenly over cake, allowing mixture to soak in.]]></step>
+      <step><![CDATA[Combine milk and pudding mix until smooth.]]></step>
+      <step><![CDATA[Fold in whipped cream.]]></step>
+      <step><![CDATA[Spread over cake.]]></step>
+      <step><![CDATA[Refrigerate 4 hours or overnight.]]></step>
+    </steps>
+    <rcs>
+      <rc id="78"/>
+    </rcs>
+<note><![CDATA[Use devil's food cake mix to make Black Forest dessert]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="156" uid="1212349450" name="Cookies &amp; Cream Cake" source=""  category="" preheat="350" createdate="2007-04-06 22:16:58" submittedby="87">
+    <ingredientset id="177" name="Ingredients">
+      <ingredient amount="1 pkg" description="white cake mix"/>
+      <ingredient amount="1pkg (4serving)" description="white chocolate instant pudding mix"/>
+      <ingredient amount="1 cup" description="vegetable oil"/>
+      <ingredient amount="4" description="egg whites"/>
+      <ingredient amount="1/2 cup" description="milk"/>
+      <ingredient amount="20" description="oreos, coarsely chopped"/>
+      <ingredient amount="1/2 cup" description="chocolate chips"/>
+      <ingredient amount="1 tsp" description="shortening"/>
+      <ingredient amount="4" description="oreos, quartered for garnish"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Combine cake mix, pudding, oil, milk and egg whites in bowl.  Beat]]></step>
+      <step><![CDATA[Stir in cookies and pour into bundt pan.]]></step>
+      <step><![CDATA[Bake 50 -60 minutes.]]></step>
+      <step><![CDATA[Cool in pan for 1 hour.]]></step>
+      <step><![CDATA[Invert pan and cool completely.]]></step>
+      <step><![CDATA[Combine chocolate chips and shortening.  Melt in microwave.  ]]></step>
+      <step><![CDATA[Drizzle over cake and garnish with cookies.]]></step>
+    </steps>
+    <rcs>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="157" uid="1212349450" name="Four Layer Pumpkin Cake" source=""  category="" preheat="350" createdate="2007-06-24 21:30:25" submittedby="87">
+    <ingredientset id="178" name="Ingredients">
+      <ingredient amount="1 pkg" description="yellow cake mix"/>
+      <ingredient amount="1-398 ml can" description="pumpkin puree"/>
+      <ingredient amount="1/2 cup" description="milk"/>
+      <ingredient amount="1/3 cup" description="vegetable oil"/>
+      <ingredient amount="4" description="large eggs"/>
+      <ingredient amount="1 1/2 tsp" description="pumpkin pie spice"/>
+      <ingredient amount="1-250 g pkg" description="cream cheese, softened"/>
+      <ingredient amount="1 cup" description="icing sugar"/>
+      <ingredient amount="1-1litre tub" description="cool whip, thawed"/>
+      <ingredient amount="1/4 cup" description="caramel topping"/>
+      <ingredient amount="1/2 cup" description="toasted pecans"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Preheat oven to 350.  Grease 2 - 9inch round cake pans.]]></step>
+      <step><![CDATA[Beat cake mix, 1 cup of pumpkin, milk, oil, eggs and 1 tsp pumpkin pie spice in large bowl until well blended.]]></step>
+      <step><![CDATA[Pour evenly into prepared pans.  Bake 20-22 minutes.  Cool completely on wire racks.  ]]></step>
+      <step><![CDATA[Beat cream cheese in small bowl until creamy.  Add icing sugar, remaining pumpkin and remaining 1/2 tsp pumpkin pie spice; mix well.  Stir in cool whip.  ]]></step>
+      <step><![CDATA[Remove cake layers from pans; cut each layer horizontally in half with a serrated knife.  Stack the layers on a serving plate, spreading the cream cheese mixture between the layers.  Do not frost the top layer.  Drizzle with caramel topping and toasted pecans.  ]]></step>
+      <step><![CDATA[Store in refrigerator.  ]]></step>
+    </steps>
+    <rcs>
+      <rc id="78"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="158" uid="1212349451" name="Chicken Quesadillas" source=""  category="" preheat="450" createdate="2007-06-24 21:47:06" submittedby="87">
+    <ingredientset id="179" name="Ingredients">
+      <ingredient amount="1 Tbsp" description="oil"/>
+      <ingredient amount="1" description="onion, chopped"/>
+      <ingredient amount="1" description="garlic clove, minced"/>
+      <ingredient amount="1" description="jalapeno pepper"/>
+      <ingredient amount="1/4 tsp" description="chili powder"/>
+      <ingredient amount="1-28 oz can" description="whole peeled tomatoes, pureed"/>
+      <ingredient amount="1 tsp" description="lime juice"/>
+      <ingredient amount="salt &amp; pepper" description="to taste"/>
+      <ingredient amount="8" description="6&quot; tortillas"/>
+      <ingredient amount="12 oz" description="shredded cooked chicken"/>
+      <ingredient amount="4 cups" description="monterey jack cheese, shredded"/>
+      <ingredient amount="2 Tbsp" description="pickled jalapenos"/>
+      <ingredient amount="1/2 cup" description="water"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Saute onion, garlic and pepper in oil.  Sprinkle with chili powder.]]></step>
+      <step><![CDATA[Pour in tomatoes and cook until onion is soft.  Add lime juice, water, salt and pepper.]]></step>
+      <step><![CDATA[Place tortilla on flat surface.  Add chicken, cheese and pickled jalapeno. ]]></step>
+      <step><![CDATA[Roll tightly and place in 9 x 13 pan.  ]]></step>
+      <step><![CDATA[Pour sauce over wrapped tortillas and sprinkle with cheese.   ]]></step>
+      <step><![CDATA[Bake 5 - 7 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="81"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="159" uid="1212349451" name="Best Ever Ribs" source=""  category="" preheat="350" createdate="2007-06-24 22:00:44" submittedby="87">
+    <ingredientset id="180" name="For rub">
+      <ingredient amount="2 racks" description="baby back pork ribs"/>
+      <ingredient amount="3 Tbsp" description="dry mustard powder"/>
+      <ingredient amount="3 Tbsp" description="onion powder"/>
+      <ingredient amount="3 Tbsp" description="garlic powder"/>
+      <ingredient amount="3 Tbsp" description="allspice"/>
+      <ingredient amount="2 Tbsp" description="chili powder"/>
+      <ingredient amount="1 Tbsp" description="cayenne pepper"/>
+      <ingredient amount="3 Tbsp" description="Lowry's seasoned salt"/>
+      <ingredient amount="1 Tbsp" description="kosher salt"/>
+      <ingredient amount="2 tsp" description="black pepper"/>
+    </ingredientset>
+    <ingredientset id="181" name="For sauce">
+      <ingredient amount="1 bottle" description="hickory flavoured BBQ sauce"/>
+      <ingredient amount="1 bottle" description="honey flavoured BBQ sauce"/>
+      <ingredient amount="3/4 cup" description="light brown sugar"/>
+      <ingredient amount="6 cloves" description="garlic, minced"/>
+      <ingredient amount="3 Tbsp" description="liquid smoke flavouring"/>
+      <ingredient amount="3/4 cup" description="apple cider vinegar"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Wash ribs and pat dry with paper towels.  Set on rimmed baking sheet or in a large roaster.]]></step>
+      <step><![CDATA[Place spices in a large ziplock bag and shake vigorously to mix well.  Pour half seasoned rub mixture onto one side of the ribs and massage into flesh.  turn ribs over and pour the remaining rub mixture onto other side of the ribs and massage into flesh.]]></step>
+      <step><![CDATA[Cover ribs fully with foil.  Place in oven and cook for 1 1/2 hours.]]></step>
+      <step><![CDATA[Remove from oven and carefully unseal foil.  ]]></step>
+      <step><![CDATA[Heat BBQ to high.]]></step>
+      <step><![CDATA[Mix sauce ingredients together.  Place over medium heat and bring to a boil.  Lower heat and cook for 5 minutes.  Remove from heat and set aside.  ]]></step>
+      <step><![CDATA[Place ribs on BBQ and baste generously with sauce.  Cook 4 - 6 minutes a side.]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="160" uid="1212349451" name="Jiffy Pie" source=""  category="" preheat="350" createdate="2007-06-24 22:11:10" submittedby="87">
+    <ingredientset id="182" name="Crust">
+      <ingredient amount="1/3 cup" description="butter or margarine"/>
+      <ingredient amount="3 Tbsp" description="brown sugar, packed"/>
+      <ingredient amount="1 1/4 cups" description="graham cracker crumbs"/>
+    </ingredientset>
+    <ingredientset id="183" name="Filling">
+      <ingredient amount="250 g pkg" description="cream cheese, softened"/>
+      <ingredient amount="1 cup" description="milk"/>
+      <ingredient amount="1  pkg" description="instant lemon pudding powder, 4 serving size"/>
+      <ingredient amount="1 tsp" description="grated lemon peel"/>
+      <ingredient amount="2 cups" description="frozen cool whip"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Melt butter in saucepan; stir in brown sugar and graham crumbs.  Reserve 3 Tbsp.  Press remaining crumbs into 9" pie plate, covering sides and bottom.]]></step>
+      <step><![CDATA[Bake at 350 for 10 minutes.  Cool.]]></step>
+      <step><![CDATA[Beat cream cheese and milk in large bowl until smooth.  Add pudding powder and lemon peel.  Beat well.  Fold in whipped topping.  ]]></step>
+      <step><![CDATA[Pour into pie shell and sprinkle with reserved crumbs.  ]]></step>
+      <step><![CDATA[Chill at least 2 hours before serving.  ]]></step>
+    </steps>
+    <rcs>
+      <rc id="83"/>
+    </rcs>
+<note><![CDATA[Substitute any instant pudding flavour for a different tast.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="161" uid="1212349451" name="Blueberry Pumpkin Muffins" source=""  category="" preheat="350" createdate="2007-10-19 12:54:03" submittedby="87">
+    <ingredientset id="184" name="Ingredients">
+      <ingredient amount="1 cup" description="canned pumpkin"/>
+      <ingredient amount="1/4 cup" description="milk"/>
+      <ingredient amount="1 2/3 cup" description="flour"/>
+      <ingredient amount="1 tsp" description="baking soda"/>
+      <ingredient amount="1/2 tsp" description="baking powder"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1 tsp" description="cinnamon"/>
+      <ingredient amount="1/2 tsp" description="allspice"/>
+      <ingredient amount="1/3 cup" description="margarine"/>
+      <ingredient amount="1 cup" description="firmly packed brown sugar"/>
+      <ingredient amount="1" description="egg"/>
+      <ingredient amount="1 Tbsp" description="flour"/>
+      <ingredient amount="" description=""/>
+      <ingredient amount="1 cup" description="blueberries"/>
+    </ingredientset>
+    <ingredientset id="185" name="Struesel topping">
+      <ingredient amount="2 Tbsp" description="flour"/>
+      <ingredient amount="2 Tbsp" description="sugar"/>
+      <ingredient amount="1/4 tsp" description="cinnamon"/>
+      <ingredient amount="1 Tbsp" description="margarine"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Combine pumpkin and milk.  Set aside.]]></step>
+      <step><![CDATA[Combine dry ingredients.  Set aside.]]></step>
+      <step><![CDATA[Cream together margarine and brown sugar.  Add egg and beat until fluffy.]]></step>
+      <step><![CDATA[Add flour mixture alternately with pumpkin mixture, beating well.  ]]></step>
+      <step><![CDATA[Toss 1 Tbsp flour with blueberries.  Gently stir into batter.]]></step>
+      <step><![CDATA[Put batter into muffin tin.]]></step>
+      <step><![CDATA[Make topping:  mix flour, sugar and cinnamon together, then cut in margarine until crumbly.]]></step>
+      <step><![CDATA[Sprinkle topping onto muffins.]]></step>
+      <step><![CDATA[Bake for 25 - 35 minutes.]]></step>
+    </steps>
+    <rcs>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="162" uid="1212349451" name="Choco-Mint Rounds" source=""  category="" preheat="375" createdate="2008-01-19 16:43:48" submittedby="87">
+    <ingredientset id="186" name="Ingredients">
+      <ingredient amount="1 3/4 cup" description="flour"/>
+      <ingredient amount="1/2 tsp" description="baking powder"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1/2 cup" description="butter or margarine"/>
+      <ingredient amount="3/4 cup" description="sugar"/>
+      <ingredient amount="1/4 cup" description="cocoa powder"/>
+      <ingredient amount="1" description="egg"/>
+      <ingredient amount="2 tsp" description="vanilla"/>
+      <ingredient amount="1/4 cup" description="crushed peppermint candy"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Stir together flour, baking powder and salt.]]></step>
+      <step><![CDATA[Beat butter, then add sugar and cocoa.  Beat until fluffy.]]></step>
+      <step><![CDATA[Add egg and vanilla; beat well.]]></step>
+      <step><![CDATA[Add dry ingredients; beat well.  ]]></step>
+      <step><![CDATA[Stir in crushed candy.]]></step>
+      <step><![CDATA[Shape into two 6-inch rolls. Wrap and chill thoroughly.]]></step>
+      <step><![CDATA[Cut into 1/2 inch slices.  Place on ungreased cookie sheet.]]></step>
+      <step><![CDATA[Bake for 8-10 minutes.  Cool on rack.]]></step>
+    </steps>
+    <rcs>
+    </rcs>
+<note><![CDATA[Makes 48 cookies.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="163" uid="1212349452" name="Coconut Cookies" source=""  category="" preheat="325" createdate="2008-01-19 16:52:40" submittedby="87">
+    <ingredientset id="187" name="Ingredients">
+      <ingredient amount="1 1/2 cups" description="white sugar"/>
+      <ingredient amount="3/4 cup" description="brown sugar"/>
+      <ingredient amount="2 cups" description="margarine"/>
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="2 tsp" description="vanilla"/>
+      <ingredient amount="2 1/4 cups" description="rolled oats"/>
+      <ingredient amount="2 3/4 cups" description="flour"/>
+      <ingredient amount="1 1/2 tsp" description="baking powder"/>
+      <ingredient amount="1 1/2 tsp" description="baking soda"/>
+      <ingredient amount="2 cups" description="coconut"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cream together both sugars and margarine.]]></step>
+      <step><![CDATA[Add eggs and vanilla; mix well.]]></step>
+      <step><![CDATA[Add remaining ingredients; mix well.]]></step>
+      <step><![CDATA[Form into ball.  Divide into quarters.  Shape into 4 rolls.  Cut 1 inch slices.]]></step>
+      <step><![CDATA[Bake for 15 minutes or until light brown.]]></step>
+    </steps>
+    <rcs>
+    </rcs>
+<note><![CDATA[Makes 7 dozen]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="164" uid="1212349453" name="Nuts &amp; Bolts" source=""  category="" preheat="275" createdate="2008-01-19 17:00:10" submittedby="87">
+    <ingredientset id="188" name="Ingredients">
+      <ingredient amount="1 oz" description="mini ritz bits"/>
+      <ingredient amount="3/4 oz" description="mini pretzels"/>
+      <ingredient amount="3/4 oz" description="shreddies"/>
+      <ingredient amount="3/4 oz" description="cheerios"/>
+      <ingredient amount="1 Tbsp" description="pumpkin seeds"/>
+      <ingredient amount="1 Tbsp" description="margarine"/>
+      <ingredient amount="2 tsp" description="worchestershire sauce"/>
+      <ingredient amount="1/4 tsp" description="garlic powder"/>
+      <ingredient amount="1/4 tsp" description="onion powder"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Combine first five ingredients.]]></step>
+      <step><![CDATA[In  1 quart saucepan, melt margarine.]]></step>
+      <step><![CDATA[Add remaining ingredients.]]></step>
+      <step><![CDATA[Pour margarine mixture over cereal mixture and toss.]]></step>
+      <step><![CDATA[Transfer to cookie sheet and bake for 30 minutes, stirring every 10 minutes.]]></step>
+      <step><![CDATA[Place sheet on wire rack to cool.]]></step>
+    </steps>
+    <rcs>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="165" uid="1212349453" name="Sour Cream Coffee Cake" source=""  category="" preheat="350" createdate="2008-01-19 17:08:09" submittedby="87">
+    <ingredientset id="189" name="Ingredients">
+      <ingredient amount="1/2 cup" description="margarine or butter, softened"/>
+      <ingredient amount="1 cup" description="sugar"/>
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="1 tsp" description="baking soda"/>
+      <ingredient amount="1 cup" description="sour cream"/>
+      <ingredient amount="1 1/2 cups" description="flour"/>
+      <ingredient amount="1 1/2 tsp" description="baking powder"/>
+      <ingredient amount="1/4 tsp" description="salt"/>
+    </ingredientset>
+    <ingredientset id="190" name="Topping">
+      <ingredient amount="1/2 cup" description="packed brown sugar"/>
+      <ingredient amount="1/2 cup" description="chopped nuts"/>
+      <ingredient amount="1 tsp" description="cinnamon"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cream together, butter and sugar.]]></step>
+      <step><![CDATA[Add eggs and beat well.]]></step>
+      <step><![CDATA[Add baking soda and sour cream; mix well.]]></step>
+      <step><![CDATA[Mix together flour, baking powder and salt.  Add to batter and stir just until mixed.]]></step>
+      <step><![CDATA[Pour half of the batter into a greased 8x8 pan.]]></step>
+      <step><![CDATA[Mix together brown sugar, nuts and cinnamon.  Sprinkle half over batter.]]></step>
+      <step><![CDATA[Spoon second half of batter over top and sprinkle with remaining topping mixture.  ]]></step>
+      <step><![CDATA[Bake for 45 minutes.]]></step>
+    </steps>
+    <rcs>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="166" uid="1212349454" name="Toffee &amp; Maple Cookies" source=""  category="" preheat="350" createdate="2008-02-03 21:21:43" submittedby="87">
+    <ingredientset id="191" name="Ingredients">
+      <ingredient amount="1 1/2 cups" description="margarine, softened"/>
+      <ingredient amount="1 cup" description="white sugar"/>
+      <ingredient amount="3/4 cup" description="brown sugar"/>
+      <ingredient amount="3" description="eggs"/>
+      <ingredient amount="3 tsp" description="vanilla"/>
+      <ingredient amount="1 tsp" description="maple extract"/>
+      <ingredient amount="1/2 cup" description="milk"/>
+      <ingredient amount="4 cups" description="white flour"/>
+      <ingredient amount="2 1/2 cups" description="whole wheat flour"/>
+      <ingredient amount="3 tsp" description="baking soda"/>
+      <ingredient amount="1 tsp" description="baking powder"/>
+      <ingredient amount="1 pkg" description="skor bits"/>
+      <ingredient amount="1 pkg" description="chipits - any flavour"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cream margarine and sugars together.]]></step>
+      <step><![CDATA[Add eggs, vanilla and maple extract.  Beat well.  Add milk.]]></step>
+      <step><![CDATA[Add flours, baking soda and baking powder.  Mix well.]]></step>
+      <step><![CDATA[Stir in skor bits and chipits.]]></step>
+      <step><![CDATA[Bake for 10 - 12 minutes or until browned.]]></step>
+      <step><![CDATA[Remove from pan immediately as skor bits harden when cooled.]]></step>
+      <step><![CDATA[]]></step>
+    </steps>
+    <rcs>
+      <rc id="82"/>
+    </rcs>
+<note><![CDATA[Use all white flour if desired]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="167" uid="1212349454" name="Mocha Pudding Cake" source=""  category="" preheat="350" createdate="2008-02-03 21:31:09" submittedby="87">
+    <steps>
+      <step><![CDATA[Dissolve 2 Tbsp instant coffee in 1 cup boiling water.]]></step>
+      <step><![CDATA[Combine 1 pkg (4 serving size) chocolate instant pudding, 1 pkg (2-layer) chocolate cake mix, 4 eggs and 1/4 cup vegetable oil in large bowl; add coffee.  Blend well, then beat at medium speed of electric mixer for 2 minutes.]]></step>
+      <step><![CDATA[Pour into a greased 13 x 9 baking pan.  Bake for 30 - 35 minutes.  Cool for 15 minutes.  Remove cake from pan and cool on rack.]]></step>
+      <step><![CDATA[Spread cake with 1 - 500ml tub of thawed Cool Whip.  Sprinkle cake with 1 square grated semi sweet chocolate.]]></step>
+    </steps>
+    <rcs>
+      <rc id="78"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="168" uid="1212349454" name="Easiest Square Ever" source=""  category="" preheat="350" createdate="2008-02-03 21:35:51" submittedby="87">
+    <ingredientset id="222" name="Ingredients">
+      <ingredient amount="1 can" description="sweetened condensed milk"/>
+      <ingredient amount="1 pkg" description="skor bits"/>
+      <ingredient amount="1 box" description="plain ritz crackers"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix milk, crackers and 3/4 of the skor bits together.]]></step>
+      <step><![CDATA[Pack into greased 9 x 13 pan.]]></step>
+      <step><![CDATA[Bake for 15 - 20 minutes.]]></step>
+      <step><![CDATA[Cool. Ice with cream cheese icing and sprinkle with remaining skor bits.]]></step>
+    </steps>
+    <rcs>
+      <rc id="93"/>
+    </rcs>
+  </recipe>
+  <recipe serves="4" cooktime="0" preptime="0" id="169" uid="1223831860" name="Slow Cooker Honey-Garlic Ribs" source=""  category="" preheat="" createdate="2008-10-12 13:23:32" submittedby="87">
+    <ingredientset id="194" name="Ingredients">
+      <ingredient amount="3 lbs" description="country style pork ribs"/>
+      <ingredient amount="1 cup" description="barbeque sauce"/>
+      <ingredient amount="1/2 cup" description="liquid honey"/>
+      <ingredient amount="1/4 cup" description="red wine vinegar"/>
+      <ingredient amount="4" description="crushed garlic cloves"/>
+      <ingredient amount="`" description="salt"/>
+      <ingredient amount="" description="pepper"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cut the ribs into individual ribs and cut off any visible fat.  Place ribs in slow cooker.]]></step>
+      <step><![CDATA[In a bowl, combine barbeque sauce, honey, vinegar, garlic and stir well.  Add salt and pepper to taste.]]></step>
+      <step><![CDATA[Pour sauce over ribs in slow cooker.
+]]></step>
+      <step><![CDATA[Cover and cook on LOW for 8-10 hours or HIGH for 4-6 hours.]]></step>
+      <step><![CDATA[Stir ribs twice during cooking to coat well.]]></step>
+      <step><![CDATA[Ribs are ready when tender and browned in sauce.]]></step>
+      <step><![CDATA[Serve with rice and enjoy!]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="30" preptime="0" id="170" uid="1236989642" name="Mandarin Orange Cake" source=""  category="" preheat="350" createdate="2009-03-13 20:20:01" submittedby="87">
+    <ingredientset id="201" name="Cake">
+      <ingredient amount="1 cup" description="flour"/>
+      <ingredient amount="1 cup" description="sugar"/>
+      <ingredient amount="1 tsp" description="baking soda"/>
+      <ingredient amount="1" description="egg"/>
+      <ingredient amount="1 can" description="mandarin orange segments"/>
+    </ingredientset>
+    <ingredientset id="202" name="Topping">
+      <ingredient amount="1/2 cup" description="brown sugar"/>
+      <ingredient amount="1 Tbsp" description="milk"/>
+      <ingredient amount="2 Tbsp" description="melted butter"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix together flour, sugar and baking soda.  ]]></step>
+      <step><![CDATA[Blend in egg and mandarin orange juice.]]></step>
+      <step><![CDATA[Add orange segments.]]></step>
+      <step><![CDATA[Place in 8X8 pan and bake for 30  mins or until skewer inserted comes out clean.]]></step>
+      <step><![CDATA[Mix topping ingredients together and spread over top of baked cake.]]></step>
+      <step><![CDATA[Place under broiler until bubbly - be careful, it burns easily]]></step>
+    </steps>
+    <rcs>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="171" uid="1236990432" name="Moose Milk" source=""  category="" preheat="" createdate="2009-03-13 20:33:12" submittedby="87">
+    <ingredientset id="204" name="Ingredients">
+      <ingredient amount="4 ltrs" description="2% milk"/>
+      <ingredient amount="1 cup" description="white rum"/>
+      <ingredient amount="1 cup" description="brandy"/>
+      <ingredient amount="2 Tbsp" description="vanilla extract"/>
+      <ingredient amount="3 lltrs" description="vanilla ice cream"/>
+      <ingredient amount="" description="nutmeg"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[In a punch bowl, mix milk rum, brandy and vanilla.]]></step>
+      <step><![CDATA[Add half of the ice cream, cut into blocks or scoops.]]></step>
+      <step><![CDATA[Sprinkle lightly with nutmeg.]]></step>
+      <step><![CDATA[As the ice cream melts it makes the punch creamier.  Add remaining ice cream as needed.]]></step>
+    </steps>
+    <rcs>
+      <rc id="85"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="9" preptime="0" id="172" uid="1236991284" name="Peanut Butter Oatmeal Cookies" source=""  category="" preheat="350" createdate="2009-03-13 20:44:51" submittedby="87">
+    <ingredientset id="211" name="Ingredients">
+      <ingredient amount="3/4 cup" description="margarine, softened"/>
+      <ingredient amount="1 cup" description="peanut butter"/>
+      <ingredient amount="1 1/2 cups" description="brown sugar, firmly packed"/>
+      <ingredient amount="1/3 cup" description="water"/>
+      <ingredient amount="1" description="egg"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+      <ingredient amount="3 cups" description="rolled oats"/>
+      <ingredient amount="1 1/2 cups" description="flour"/>
+      <ingredient amount="1/2 tsp" description="baking soda"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix ingredients together.  Dip fork into sugar, then flatten cookies.]]></step>
+    </steps>
+    <rcs>
+      <rc id="82"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="25" preptime="0" id="173" uid="1236991546" name="Chip n Nut Bars" source=""  category="" preheat="350" createdate="2009-03-13 20:49:58" submittedby="87">
+    <ingredientset id="207" name="Ingredients">
+      <ingredient amount="1 cup" description="margarine"/>
+      <ingredient amount="1 3/4 cup" description="brown sugar"/>
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="2 tsp" description="baking powder"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+      <ingredient amount="2 cups" description="flour"/>
+      <ingredient amount="1 Tbsp" description="instant coffee powder"/>
+      <ingredient amount="1 cup" description="nuts"/>
+      <ingredient amount="1 cup" description="chocolate chips"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix all ingredients together except chips &amp; nuts.]]></step>
+      <step><![CDATA[Stir in half of the chips &amp; nuts.]]></step>
+      <step><![CDATA[Spread mixture into well greased pan.]]></step>
+      <step><![CDATA[Sprinkle remaining chips &amp; nuts on top.]]></step>
+      <step><![CDATA[Bake at 350 for 20-25 mins.]]></step>
+    </steps>
+    <rcs>
+      <rc id="93"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="174" uid="1236991883" name="White Hot Chocolate" source=""  category="" preheat="" createdate="2009-03-13 20:53:35" submittedby="87">
+    <ingredientset id="209" name="Ingredients">
+      <ingredient amount="2 oz" description="white chocolate, chopped"/>
+      <ingredient amount="1/3 cup" description="brewed coffee"/>
+      <ingredient amount="1/2 tsp" description="vanilla extract"/>
+      <ingredient amount="1 1/2 cup" description="milk"/>
+      <ingredient amount="" description="grated nutmeg"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Heat ingredients in saucepan.]]></step>
+      <step><![CDATA[Blend in blender until frothy.]]></step>
+      <step><![CDATA[May use kahlua instead of coffee.]]></step>
+    </steps>
+    <rcs>
+      <rc id="85"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="175" uid="1236992129" name="Chocolate Graham Wafer Slice" source=""  category="" preheat="" createdate="2009-03-13 20:58:18" submittedby="87">
+    <ingredientset id="213" name="Ingredients">
+      <ingredient amount="1/2 cup" description="margarine"/>
+      <ingredient amount="1 cup" description="sugar"/>
+      <ingredient amount="2 Tbsp" description="cocoa"/>
+      <ingredient amount="3/4 cup" description="nuts"/>
+      <ingredient amount="1/2 lb" description="graham wafers, crushed"/>
+      <ingredient amount="1" description="egg, beaten"/>
+      <ingredient amount="1 tsp" description="vanilla"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Melt margarine and add sugar, egg and cocoa.]]></step>
+      <step><![CDATA[Stir and cook for 2 mins.]]></step>
+      <step><![CDATA[Add wafer crumbs, nuts and vanilla.]]></step>
+      <step><![CDATA[Press into greased 8x8 pan.]]></step>
+      <step><![CDATA[Ice with buttercream frosting.]]></step>
+    </steps>
+    <rcs>
+      <rc id="93"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="176" uid="1236992425" name="Poppy Cock" source=""  category="" preheat="200" createdate="2009-03-13 21:03:46" submittedby="87">
+    <ingredientset id="216" name="Ingredients">
+      <ingredient amount="15-18 cups" description="popped popcorn"/>
+      <ingredient amount="2 cups" description="brown sugar"/>
+      <ingredient amount="1/2 cup" description="corn syrup"/>
+      <ingredient amount="1 cup" description="butter"/>
+      <ingredient amount="1/2 tsp" description="baking soda"/>
+      <ingredient amount="1/4 tsp" description="cream of tartar"/>
+      <ingredient amount="" description="peanuts, if desired"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[In a small saucepan, boil brown sugar, corn syrup and butter for 5 mins, stirring constantly.]]></step>
+      <step><![CDATA[Add baking soda and cream of tartar. Stir.]]></step>
+      <step><![CDATA[Pour over popcorn.]]></step>
+      <step><![CDATA[Put in oven for 1/2 hr.  Stir every 10 mins.]]></step>
+    </steps>
+    <rcs>
+      <rc id="91"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="177" uid="1236992716" name="Slush" source=""  category="" preheat="" createdate="2009-03-13 21:07:53" submittedby="87">
+    <ingredientset id="219" name="Ingredients">
+      <ingredient amount="12 oz" description="frozen orange juice"/>
+      <ingredient amount="12 oz" description="frozen lemonade"/>
+      <ingredient amount="26 oz" description="vodka or gin"/>
+      <ingredient amount="1 cup" description="water"/>
+      <ingredient amount="1 cup" description="sugar"/>
+      <ingredient amount="6 cups" description="water"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Dissolve sugar in first amount of water.]]></step>
+      <step><![CDATA[Stir all ingredients together.  ]]></step>
+      <step><![CDATA[Use Pineapple Orange Banana Juice and Pink Lemonade for a change.]]></step>
+    </steps>
+    <rcs>
+      <rc id="85"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="178" uid="1236992895" name="Manitoba Slush" source=""  category="" preheat="" createdate="2009-03-13 21:10:58" submittedby="87">
+    <ingredientset id="218" name="Ingredients">
+      <ingredient amount="1 cup" description="sugar"/>
+      <ingredient amount="7 cups" description="water"/>
+      <ingredient amount="2" description="tea bags"/>
+      <ingredient amount="2 cups" description="boililng water"/>
+      <ingredient amount="12 oz" description="frozen orange juice"/>
+      <ingredient amount="12 oz" description="frozen lemonade"/>
+      <ingredient amount="26 oz" description="vodka"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix sugar and 7 c. water and heat until sugar is dissolved.]]></step>
+      <step><![CDATA[Step tea bags in boiling water.  Cool]]></step>
+      <step><![CDATA[Mix all ingredients together and freeze.]]></step>
+    </steps>
+    <rcs>
+      <rc id="84"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="179" uid="1257035989" name="Chicken Corn Quesadillas" source=""  category="" preheat="" createdate="2009-10-31 17:50:34" submittedby="87">
+    <ingredientset id="225" name="Ingredients">
+      <ingredient amount="1 Tbsp" description="margarine"/>
+      <ingredient amount="1/2" description="onion, chopped"/>
+      <ingredient amount="3/4  c." description="frozen corn kernels"/>
+      <ingredient amount="1 clove" description="garlic"/>
+      <ingredient amount="1/2" description="large tomato, diced"/>
+      <ingredient amount="1 small" description="jalapeno pepper, diced"/>
+      <ingredient amount="1 1/2 Tbsp" description="lemon juice"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="4" description="12"/>
+      <ingredient amount="1 c." description="shredded cheese"/>
+      <ingredient amount="" description="salsa"/>
+      <ingredient amount="1" description="cooked chicken breast"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Chop cooked, boneless chicken into very small pieces.]]></step>
+      <step><![CDATA[Chop onions, garlic tomato, and jalapeno pepper.]]></step>
+      <step><![CDATA[Melt margarine in pan set at Med-Lo.  Add onion, garlic and corn.  Saute for 2 minutes.]]></step>
+      <step><![CDATA[Add tomato and jalapeno; saute for 4 minutes.]]></step>
+      <step><![CDATA[Stir in chicken, lemon juice and salt.  Heat for 2-3 minutes.]]></step>
+      <step><![CDATA[Remove from pan.  There should be no "stuck" pieces. ]]></step>
+      <step><![CDATA[In same pan, melt more margarine or spray with non stick spray.  Place one tortilla in pan.  Top with 1/4 of the cheese.]]></step>
+      <step><![CDATA[Spoon about 1/2 the chicken/corn mixture over cheese.]]></step>
+      <step><![CDATA[Sprinkle 1/4 of the cheese on top.]]></step>
+      <step><![CDATA[Top with another tortilla.]]></step>
+      <step><![CDATA[Cook 3 minutes pressing down with spatula until cheese melts.]]></step>
+      <step><![CDATA[Turn carefully.  Cook until thoroughly heated.]]></step>
+      <step><![CDATA[Carefully remove from pan to plate. Keep warm in 200 oven.  ]]></step>
+      <step><![CDATA[Repeat with remaining tortillas, cheese and filling.]]></step>
+      <step><![CDATA[Cut into wedges and serve with salsa.]]></step>
+      <step><![CDATA[]]></step>
+    </steps>
+    <rcs>
+    </rcs>
+<note><![CDATA[Instead of using two tortillas at a time, use one and fold in half.  This makes turning it over easier.
+]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="30" preptime="0" id="195" uid="1331867807" name="Blueberry Pumpkin Muffins" source=""  category="" preheat="350" createdate="2012-03-15 20:27:31" submittedby="87">
+    <ingredientset id="407" name="Ingredients">
+      <ingredient amount="1 2/3 c" description="flour"/>
+      <ingredient amount="1 tsp" description="baking soda"/>
+      <ingredient amount="1/2 tsp" description="baking powder"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1 tsp" description="cinnamon"/>
+      <ingredient amount="1/2 tsp" description="allspice"/>
+      <ingredient amount="1 c" description="pumpkin"/>
+      <ingredient amount="1/4 c" description="milk"/>
+      <ingredient amount="1/3 c" description="butter or margarine"/>
+      <ingredient amount="1 c" description="firmly pkd brown sugar"/>
+      <ingredient amount="1" description="egg"/>
+      <ingredient amount="1 Tbsp" description="flour"/>
+      <ingredient amount="1 c" description="blueberries"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="408" name="Streusel topping">
+      <ingredient amount="2 Tbsp" description="flour"/>
+      <ingredient amount="2 Tbsp" description="sugar"/>
+      <ingredient amount="1/4 tsp" description="cinnamon"/>
+      <ingredient amount="1 Tbsp" description="butter or margarine"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Combine flour, baking soda, baking powder, salt, cinnamon and allspice.  ]]></step>
+      <step><![CDATA[In second bowl, combine pumpkin and milk until blended.]]></step>
+      <step><![CDATA[In third bowl, cream butter and brown sugar.  Add egg, beat until fluffy.]]></step>
+      <step><![CDATA[Add flour mixture alternately with pumpkin mixture, beating well.]]></step>
+      <step><![CDATA[Toss 1 Tbsp flour with blueberries and gently stir into batter.]]></step>
+      <step><![CDATA[For Streusel Topping:  mix flour, sugar and cinnamon together.  Cut in butter until crumbly.  Sprinkle over muffins.]]></step>
+      <step><![CDATA[Bake for 25-35 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="76"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="139" uid="1212349448" name="Beer Can Chicken" source="Debbie"  category="" preheat="350" createdate="2006-08-26 09:33:54" submittedby="88">
+    <ingredientset id="159" name="Ingredients">
+      <ingredient amount="1" description="thawed Chicken"/>
+      <ingredient amount="1" description="beer can holder"/>
+      <ingredient amount="about 1/4 cup" description="oil"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Put 1/2 can of beer in holder]]></step>
+      <step><![CDATA[Place chicken on top]]></step>
+      <step><![CDATA[Rub all over with oil and seasoning and place in oven for 45-60 minutes. Moist and yummy chicken, can also be done on barbeque or use any carbonated canned drink.]]></step>
+    </steps>
+    <rcs>
+      <rc id="81"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="141" uid="1212349448" name="cream sauce for shake n bake chicken" source=""  category="" preheat="" createdate="2006-08-30 21:09:16" submittedby="89">
+    <steps>
+    </steps>
+    <rcs>
+    </rcs>
+<note><![CDATA[dice mushrooms celery onions then put in fry pan till tendar, add mrs dash and a bit of peper and salt to taste. add a bit of flour to brown veggies, take a 1/2 cup milk and a 1/2 cup water to make the sauce. serve over chicken]]></note>
+  </recipe>
+  <recipe serves="4" cooktime="25" preptime="10" id="180" uid="1279758522" name="Chicken Curry in Coconut Milk" source="http://www.grouprecipes.com/33937/chicken-curry-in-coconut-milk.html"  category="" preheat="" createdate="2010-07-21 17:56:52" submittedby="95">
+    <ingredientset id="267" name="Ingredients">
+      <ingredient amount="2 cups" description="cubed cooked chicken (~2 large breasts)"/>
+      <ingredient amount="1 cup" description="chopped onion"/>
+      <ingredient amount="4 tbsp" description="vegetable oil"/>
+      <ingredient amount="2 tsp" description="curry powder"/>
+      <ingredient amount="1/2 tsp" description="garlic powder"/>
+      <ingredient amount="1 tsp" description="ground ginger"/>
+      <ingredient amount="2 tsp" description="garam masala"/>
+      <ingredient amount="1/2 cup" description="water"/>
+      <ingredient amount="14 oz can" description="coconut milk"/>
+      <ingredient amount="2 tsp" description="sugar"/>
+      <ingredient amount="1/4 tsp" description="salt"/>
+      <ingredient amount="6 tbsp" description="tomato paste"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="268" name="Accompaniment">
+      <ingredient amount="4" description="small servings of rice"/>
+      <ingredient amount="" description="naan or other bread"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Heat oil in a large frying pan or wok. Add onion, and simmer until translucent.]]></step>
+      <step><![CDATA[Add curry powder, garam masala, ginger, garlic powder, and stir for one minute.]]></step>
+      <step><![CDATA[Add chicken and water, stirring and scraping until meat is heated and spices mixed.]]></step>
+      <step><![CDATA[Shake coconut milk can, open and add to pan, mix well (canned coconut milk separates).]]></step>
+      <step><![CDATA[Add remaining ingredients. Simmer for 15 minutes, thickening with additional tomato paste and adding additional spices if desired.]]></step>
+      <step><![CDATA[Serve over rice.]]></step>
+    </steps>
+    <rcs>
+      <rc id="81"/>
+      <rc id="86"/>
+    </rcs>
+<note><![CDATA[Unless you use exceedingly spicy curry powder or garam masala, this curry is very mild as it's written. If more heat is desired, add in some chili powder or a nice hot sauce; you may also want to bring up the amount of garam masala and curry powder.]]></note>
+    <description><![CDATA[A fast, simple, creamy curry. Goes well with naan or other bread. There's plenty of room for flexibility with this recipe.]]></description>
+  </recipe>
+  <recipe serves="6" cooktime="35" preptime="75" id="181" uid="1279760325" name="Cajun Chicken Stew" source="Gourmet, 2004 (with modifications)"  category="" preheat="" createdate="2010-07-21 18:17:56" submittedby="95">
+    <ingredientset id="242" name="Ingredients">
+      <ingredient amount="3 tbsp" description="vegetable oil"/>
+      <ingredient amount="1 (3 to 3.5 lb)" description="chicken, cut into serving pieces"/>
+      <ingredient amount="2.5 tsp" description="salt"/>
+      <ingredient amount="1" description="medium onion"/>
+      <ingredient amount="1" description="medium green bell pepper, chopped"/>
+      <ingredient amount="1" description="celery rib, chopped"/>
+      <ingredient amount="3 cups" description="water"/>
+      <ingredient amount="1/2 tsp" description="cayenne (or to taste)"/>
+      <ingredient amount="3/4 cup" description="sliced scallion greens"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="243" name="Roux Ingredients">
+      <ingredient amount="1/2 cup" description="flour"/>
+      <ingredient amount="1/2 cup" description="vegetable oil"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="244" name="Accompaniment">
+      <ingredient amount="" description="white rice"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Heat 3 tbsp oil over fairly high heat. Pat chicken dry, sprinkle with salt. Brown chicken in 4 batches, about 5 minutes a batch, transferring to a bowl when done.]]></step>
+      <step><![CDATA[To make the roux, add 1/2 cup oil to a pot, and stir in 1/2 cup flour. Cook over moderately low heat, using a flat metal or wooden spatula to scrape (not stir) back and forth constantly to ensure roux doesn't burn. Cook until roux is a milk chocolate colour, 10 to 20 minutes.]]></step>
+      <step><![CDATA[Add onion, bell pepper, and celery. Cook, occasionally scraping, until onion is softened, about 8 minutes.]]></step>
+      <step><![CDATA[Add water to mixture, bring to a boil. Stir occasionally until roux is incorporated.]]></step>
+      <step><![CDATA[Add chicken and any juices accumulated in bowl. Simmer, partially covered, until chicken is fully cooked, 30 to 35 minutes. Stir in cayenne, scallion greens, and salt to taste.]]></step>
+      <step><![CDATA[Serve over rice.]]></step>
+    </steps>
+    <rcs>
+      <rc id="81"/>
+      <rc id="86"/>
+    </rcs>
+<note><![CDATA[Switch some or all of the water for chicken stock, and/or add in a cajun seasoning mix for more a punchy flavour.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="7" preptime="180" id="182" uid="1279761704" name="Naan" source="http://allrecipes.com/Recipe/Naan/Detail.aspx"  category="" preheat="" createdate="2010-07-21 18:47:53" submittedby="95">
+    <ingredientset id="409" name="Ingredients">
+      <ingredient amount="2 1/4 tsp" description="active dry yeast (1 pkg)"/>
+      <ingredient amount="1 cup" description="water"/>
+      <ingredient amount="1/2 tsp" description="baking soda"/>
+      <ingredient amount="1/4 cup" description="white sugar"/>
+      <ingredient amount="3 tbsp" description="milk"/>
+      <ingredient amount="1" description="egg"/>
+      <ingredient amount="2 tsp" description="salt"/>
+      <ingredient amount="3 1/2 cups" description="bread flour"/>
+      <ingredient amount="2 tsp" description="minced garlic (optional)"/>
+      <ingredient amount="1/4 cup" description="melted butter"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[In a large bowl, dissolve yeast in warm water with a tablespoon of sugar. Let stand 10 minutes, until frothy.]]></step>
+      <step><![CDATA[Stir in remaining sugar, milk, egg, salt, baking soda, and only enough flour as is needed to make for a soft dough (likely 3.5 cups, possibly up to 4.5). Knead on a lightly floured surface until smooth, about 6 to 8 minutes.]]></step>
+      <step><![CDATA[Place dough in an oiled bowl, cover with a damp cloth, and set aside to rise. Let rise 1 hour, dough should roughly double in volume.]]></step>
+      <step><![CDATA[Punch down dough, knead in garlic if desired. Pinch off small, roughly golf ball-sized pieces. Roll into balls, and place on a tray. Cover with a towel, and allow dough to rise until again roughly doubled in size, about 30 minutes.]]></step>
+      <step><![CDATA[Brush or spray grill with canola oil to prevent sticking. Preheat to high.]]></step>
+      <step><![CDATA[Roll dough balls into circles; pinch in half, and flatten again. Naan will cook substantially better if it's very thin.]]></step>
+      <step><![CDATA[Place dough circle on grill; cook 2 to 3 minutes or until puffy and lightly browned. Brush uncooked side with melted butter. Turn. Brush cooked side with melted butter. Cook another 2 to 4 minutes. Remove from grill. Continue for all dough pieces until done.]]></step>
+    </steps>
+    <rcs>
+      <rc id="76"/>
+    </rcs>
+<note><![CDATA[You'll probably only need about 3 1/4 cups of flour. A bread machine can do a lot of the work, but if doing so only use that much flour.
+
+To aid with the rising, put the dough bowl on the top rack of a cool oven, and a bowl of hot water on the lower rack.
+
+Bread flour will work best, however I've done this with all-purpose and it's still turned out nicely.]]></note>
+  </recipe>
+  <recipe serves="4" cooktime="10" preptime="35" id="183" uid="1279768077" name="Sesame Beef" source="http://allrecipes.com/Recipe/Sesame-Beef/Detail.aspx"  category="" preheat="" createdate="2010-07-21 20:25:12" submittedby="95">
+    <ingredientset id="492" name="Ingredients">
+      <ingredient amount="1 lb" description="round eye steak"/>
+      <ingredient amount="4 tbsp" description="soy sauce"/>
+      <ingredient amount="4 tbsp" description="white sugar"/>
+      <ingredient amount="4 tbsp" description="vegetable oil"/>
+      <ingredient amount="2" description="cloves garlic, minced"/>
+      <ingredient amount="2" description="green onions"/>
+      <ingredient amount="2 tbsp" description="sesame seeds"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix soy sauce, sugar, oil, garlic, and green onion in a large bowl. Set aside.]]></step>
+      <step><![CDATA[Cut steak into strips and add to bowl. Marinate for at least 30 minutes or overnight.]]></step>
+      <step><![CDATA[Cook in wok or frying pan until brown. Add sesame seeds and cook for and additional 2 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+    </rcs>
+<note><![CDATA[Replace the sugar with sucralose (e.g. Splenda) or stevia, using the substitution on the package.
+
+With vegetables and noodles: Double or triple the sauce, cook the meat with 1/3 of it. Set the cooked meat/sauce aside and stir-fry the vegetables with the rest of the sauce. Add noodles and meat, stir together and heat, serve.]]></note>
+    <description><![CDATA[The sauce also goes well with noodles and vegetables.]]></description>
+  </recipe>
+  <recipe serves="6" cooktime="25" preptime="0" id="184" uid="1279769293" name="Curry Chicken Pot Pie" source="http://www.foodnetwork.com/recipes/alton-brown/curry-chicken-pot-pie-recipe/index.html"  category="" preheat="400 F" createdate="2010-07-21 20:44:47" submittedby="95">
+    <ingredientset id="270" name="Ingredients">
+      <ingredient amount="4 cups" description="frozen mixed vegetables"/>
+      <ingredient amount="3 tbsp" description="butter"/>
+      <ingredient amount="1 cup" description="onion"/>
+      <ingredient amount="1 cup" description="chopped celery"/>
+      <ingredient amount="1 1/2 cups" description="chicken broth"/>
+      <ingredient amount="1/2 cup" description="milk"/>
+      <ingredient amount="3 tbsp" description="flour"/>
+      <ingredient amount="1 tsp" description="curry powder"/>
+      <ingredient amount="2 tbsp" description="dried parsley"/>
+      <ingredient amount="1 tsp" description="salt"/>
+      <ingredient amount="1/2 tsp" description="ground pepper"/>
+      <ingredient amount="2 cups" description="cubed cooked chicken"/>
+      <ingredient amount="1 pkg" description="puff pastry"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Preheat oven to 400 F]]></step>
+      <step><![CDATA[In a frying pan, heat 1 tbsp butter and sweat the onion and celery.]]></step>
+      <step><![CDATA[Heat the broth and milk in another pan.]]></step>
+      <step><![CDATA[Add 2 more tbsp of butter to the celery mix. Cook out the water.]]></step>
+      <step><![CDATA[Add the flour and curry powder, cook for 1 to 2 minutes.]]></step>
+      <step><![CDATA[Whisk in the hot milk mixture, and cook until thickened.]]></step>
+      <step><![CDATA[Add the parsley, salt, and pepper. Add the chicken and frozen vegetables to the mixture and toss. Continue cooking until the vegetables have warmed.]]></step>
+      <step><![CDATA[Pour mixture into a shallow baking pan or large terra cotta pot base, lined with foil. Top with 6 to 8 circles of puff pastry (or one or more large puff pastry sheets).]]></step>
+      <step><![CDATA[Cook in oven until puff pastry is browned and filling is hot and bubbling, about 25 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+    </rcs>
+<note><![CDATA[Increase the curry powder as desired.]]></note>
+  </recipe>
+  <recipe serves="4" cooktime="120" preptime="60" id="185" uid="1279770363" name="Chicken Vindaloo" source="http://allrecipes.co.uk/recipe/570/chicken-vindaloo.aspx"  category="" preheat="" createdate="2010-07-21 21:19:51" submittedby="95">
+    <ingredientset id="463" name="Ingredients">
+      <ingredient amount="3" description="chicken breasts"/>
+      <ingredient amount="1/2 cup" description="water"/>
+      <ingredient amount="1/2 to 3/4 cup" description="(optional) vegetables (e.g. cauliflower, peas)"/>
+      <ingredient amount="2 tbsp" description="(optional) fresh coriander"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="464" name="Onion sauce">
+      <ingredient amount="" description="vegetable oil"/>
+      <ingredient amount="2-3" description="large onions"/>
+      <ingredient amount="2 tbsp" description="white wine vinegar"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="465" name="Garlic/chili paste">
+      <ingredient amount="2" description="small, fresh, hot chili peppers"/>
+      <ingredient amount="12" description="cloves garlic"/>
+      <ingredient amount="2cm cube" description="fresh ginger (~1 tsp dried ginger)"/>
+      <ingredient amount="2 tsp" description="turmeric"/>
+      <ingredient amount="2 tsp" description="dried coriander powder"/>
+      <ingredient amount="2 tsp" description="garam masala"/>
+      <ingredient amount="1 tsp" description="cinnamon powder"/>
+      <ingredient amount="3 tsp" description="black peppercorns"/>
+      <ingredient amount="2 tsp" description="black mustard seeds"/>
+      <ingredient amount="1/2 tsp" description="rock salt"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="466" name="Accompaniments">
+      <ingredient amount="" description="rice"/>
+      <ingredient amount="" description="naan or roti (chapati)"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[// Onion sauce //]]></step>
+      <step><![CDATA[Pour enough vegetable oil into a frying pan to cover the base, with a little excess.]]></step>
+      <step><![CDATA[Heat oil. Slice onions into thin slivers. When the oil is hot, add the onions.]]></step>
+      <step><![CDATA[Turn the stove down to gently sauté the onions. Cook until they begin to caramelize, about 3 minutes.]]></step>
+      <step><![CDATA[Gradually increase heat, continue stirring. Brown the onions heavily without burning them.]]></step>
+      <step><![CDATA[Add the white wine vinegar, keeping in mind that it will sizzle. Continue stirring. Fry until the onions are very browned and near to (but not yet) burning.]]></step>
+      <step><![CDATA[Remove the onions into a bowl, keeping as much oil in the pan as possible.]]></step>
+      <step><![CDATA[Add onions to a blender or food processor. Add 1 tbsp oil, process until a thick, brown sauce.]]></step>
+      <step><![CDATA[Set sauce aside.]]></step>
+      <step><![CDATA[// Garlic/chili paste //]]></step>
+      <step><![CDATA[Coarsely chop the garlic, ginger, and peppers. Add to the food processor, blender, or a coffee grinder (or a food processor with a coffee grinder attachment). This may be difficult in a normal blender due to the dryness and volume of the mixture; if so, a small amount of water may help.]]></step>
+      <step><![CDATA[Blend until the mixture becomes a fairly grainy, but liquid, paste. Place in a bowl.]]></step>
+      <step><![CDATA[Add turmeric, coriander, garam masala, and cinnamon to the paste. Stir.]]></step>
+      <step><![CDATA[Crush or grind black pepper corns. Add mustard seed and rock salt. Mix. Add to paste. Stir, and set paste aside.]]></step>
+      <step><![CDATA[// Cooking //]]></step>
+      <step><![CDATA[Pour a small amount of oil into a saucepan. Heat on medium-highish. Add paste into pan, spread out well.]]></step>
+      <step><![CDATA[When sauce is bubbling, add meat. Stir to ensure that meat absorbs paste. Cook until browned.]]></step>
+      <step><![CDATA[Add onion sauce. Stir for 1 minute. Add water, stir for 2 minutes. Turn heat to fairly low.]]></step>
+      <step><![CDATA[Add vegetables if desired.]]></step>
+      <step><![CDATA[Simmer, covered, for 30-40 minutes. Check and stir every 5 to 10 minutes to prevent sticking.]]></step>
+      <step><![CDATA[Serve over rice. Sprinkle with chopped fresh coriander leaves.]]></step>
+    </steps>
+    <rcs>
+      <rc id="81"/>
+      <rc id="86"/>
+      <rc id="88"/>
+      <rc id="107"/>
+      <rc id="108"/>
+    </rcs>
+  </recipe>
+  <recipe serves="4" cooktime="50" preptime="30" id="186" uid="1284513267" name="Chicken Tikka Masala" source="allrecipes.com: Chicken-Tikka-Masala by Yakuta (with modifications)"  category="" preheat="" createdate="2010-09-14 18:43:11" submittedby="95">
+    <ingredientset id="395" name="Chicken tikka">
+      <ingredient amount="1 cup" description="yogurt"/>
+      <ingredient amount="1 tbsp" description="lemon juice"/>
+      <ingredient amount="2 tsp" description="garam masala"/>
+      <ingredient amount="1 tsp" description="ground cumin"/>
+      <ingredient amount="1/2 tsp" description="turmeric"/>
+      <ingredient amount="2 tsp" description="cayenne, or to taste (or minced hot chili)"/>
+      <ingredient amount="2 tsp" description="ground black pepper"/>
+      <ingredient amount="1 tbsp" description="minced fresh ginger (or 1 tsp ground)"/>
+      <ingredient amount="1 tsp" description="salt"/>
+      <ingredient amount="3" description="boneless skinless chicken breast (or thigh equiv.)"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="396" name="Sauce">
+      <ingredient amount="1 tbsp" description="butter"/>
+      <ingredient amount="3" description="cloves garlic"/>
+      <ingredient amount="1" description="onion"/>
+      <ingredient amount="1" description="jalapeño or other hot chili"/>
+      <ingredient amount="1 tsp" description="ground cumin"/>
+      <ingredient amount="1 tsp" description="paprika"/>
+      <ingredient amount="2 tsp" description="garam masala"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1 (8 oz) can" description="tomato sauce"/>
+      <ingredient amount="1 cup" description="coconut milk (or heavy cream)"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="397" name="Recommended accompaniments">
+      <ingredient amount="" description="Naan"/>
+      <ingredient amount="" description="Basmati, Jasmine, or other rice"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cut chicken into bite-sized pieces. Combine first set of ingredients (yogurt, lemon juice, garam masala, cumin, turmeric, cayenne, black pepper, ginger, and salt) in a bowl. Mix in chicken. Marinate overnight, or at least one hour.]]></step>
+      <step><![CDATA[Preheat grill for medium-high (450F for an oven). Place chicken on skewers.]]></step>
+      <step><![CDATA[Oil the grill. Grill chicken until juices run clear, about 5 minutes per side (or in the oven, place the skewers in/over a roasting or drip pan, and cook until it's done, about 10-15 minutes). Be aware that it may stick.]]></step>
+      <step><![CDATA[Melt butter at medium heat. Saute garlic, chili, and onion for one minute. Add spices (cumin, paprika, garam masala, salt). Stir in tomato sauce and coconut milk. Once simmering, reduce temperature and simmer until thickened, about 20 minutes. Add in the cooked chicken, simmer another 10 minutes. Serve.]]></step>
+    </steps>
+    <rcs>
+      <rc id="75"/>
+      <rc id="81"/>
+      <rc id="86"/>
+    </rcs>
+    <description><![CDATA[A basic chicken tikka masala; chicken marinated in yogurt and spices, barbecued, then added to a tasty sauce. The chicken is good without the sauce as well (on its own, on pizza, with vegetables, etc.).]]></description>
+  </recipe>
+  <recipe serves="4" cooktime="120" preptime="30" id="189" uid="1293037782" name="Dragon's Breath Chili" source="http://www.foodnetwork.com/recipes/guy-fieri/dragons-breath-chili-recipe/index.html"  category="" preheat="" createdate="2010-12-22 09:43:38" submittedby="95">
+    <ingredientset id="399" name="Ingredients">
+      <ingredient amount="1 tbsp" description="butter"/>
+      <ingredient amount="4 tsp" description="canola oil"/>
+      <ingredient amount="1" description="bell pepper"/>
+      <ingredient amount="2" description="jalapeno chilis"/>
+      <ingredient amount="2" description="roasted poblano chilis"/>
+      <ingredient amount="2" description="roasted anaheim chilis"/>
+      <ingredient amount="1" description="yellow onion"/>
+      <ingredient amount="1/2" description="head of garlic"/>
+      <ingredient amount="2 lbs" description="ground beef"/>
+      <ingredient amount="1 tsp" description="onion powder"/>
+      <ingredient amount="1 tsp" description="garlic powder"/>
+      <ingredient amount="2 tbsp" description="chili powder"/>
+      <ingredient amount="1 tsp" description="hot paprika"/>
+      <ingredient amount="1 tsp" description="cumin"/>
+      <ingredient amount="1 tsp" description="coriander"/>
+      <ingredient amount="2 tsp" description="cayenne"/>
+      <ingredient amount="1 tsp" description="koshering salt"/>
+      <ingredient amount="1 tsp" description="black pepper"/>
+      <ingredient amount="1 cup" description="tomato sauce"/>
+      <ingredient amount="1/2 cup" description="tomato paste"/>
+      <ingredient amount="1/2 cup" description="chicken stock"/>
+      <ingredient amount="2 cans" description="kidney and/or pinto beans, rinsed"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Cook chili peppers and onions, in butter and canola oil, over high heat until caramelizing starts]]></step>
+      <step><![CDATA[Add garlic and ground beef, and continue cooking until ground beef is browned and cooked through ]]></step>
+      <step><![CDATA[Add in salt and spices, cook an additional minute]]></step>
+      <step><![CDATA[Add tomato sauce and paste, stir for 2 minutes]]></step>
+      <step><![CDATA[Stir in chicken stock and beans. (If using raw/dry beans, be sure you've boiled them for 10 minutes before adding to prevent poisoning)]]></step>
+      <step><![CDATA[Reduce heat, simmer for about 2 hours]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+    </rcs>
+<note><![CDATA[Modified from the original; original adds beer, italian sausage, boneless chuck, and is at least doubled from this one.]]></note>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="190" uid="1301767192" name="Pita bread" source="http://www.thefreshloaf.com/recipes/pitabread"  category="" preheat="450" createdate="2011-04-02 11:21:51" submittedby="95">
+    <ingredientset id="441" name="Ingredients">
+      <ingredient amount="3 cups" description="flour (preferably at least half all purpose)"/>
+      <ingredient amount="1 1/2 tsp" description="salt"/>
+      <ingredient amount="1 tbsp" description="sugar or honey"/>
+      <ingredient amount="1 packet (2tsp)" description="yeast"/>
+      <ingredient amount="1.25 to 1.5 cup" description="water"/>
+      <ingredient amount="2 tbsp" description="olive oil, vegetable oil, butter, or shortening"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[If using active dry yeast, activate it according to its instructions]]></step>
+      <step><![CDATA[Mix yeast, flour, salt, sugar]]></step>
+      <step><![CDATA[Add olive oil, 1 1/4 cup water, and mix (with a mixer or spoon)]]></step>
+      <step><![CDATA[The ingredients should form a cohesive ball; if not, slowly add more water (should only need up to 1/4 cup more; be very careful!)]]></step>
+      <step><![CDATA[Knead for about 10 minutes, or mix with a dough hook on a slower speed for 10 minutes.]]></step>
+      <step><![CDATA[Place dough in lightly oiled bowl (~1 tsp oil), roll it about to coat, then place a damp towel over the bowl and let rise for 90 minutes. To aid with rising, place the bowl in the (cold) oven, with a second bowl of hot, steaming water under it. The water bowl will heat the oven to a nice warmish temperature that the yeast will like.]]></step>
+      <step><![CDATA[Punch the dough down, divide it into 8 pieces, roll into balls, and cover with a damp towel for 20 minutes]]></step>
+      <step><![CDATA[Preheat oven to 450F, with a baking stone inside. A cast iron skillet will work in a pinch. A baking sheet will also work, though nowhere near as well (and you may not want to preheat the oven with a baking sheet in it)]]></step>
+      <step><![CDATA[Roll the dough balls out into dough circles. They should be between 1/8 and 1/4 inch thick. If they don't flatten enough, cover with a damp towel for another 5 to 10 minutes.]]></step>
+      <step><![CDATA[Optionally, spray your cooking surface with water, then close the oven for 30 seconds. Do this between batches as well.]]></step>
+      <step><![CDATA[Bake pitas for 3 minutes each; they should puff up while in the oven, leaving a pocket in the middle. You can take them out after they puff up but just before they brown, or just after, or even let them get slightly crispy. If you want to make chips, take them out after 3 minutes, deflate and cut them, season them, and then put them back in, preferably on a rimmed baking sheet (follow the pita chips recipe)]]></step>
+    </steps>
+    <rcs>
+      <rc id="76"/>
+    </rcs>
+<note><![CDATA[The original recipe called for 3 minutes at 400; I found that left them doughy, and they didn't puff well. I like to do about 3 minutes at 450, or possibly even 500. This recipe may need adjustment and experimentation for your particular oven.
+
+It's also possible to do this on the grill. Just don't leave them very long at all (again, only 3 minutes or so total, though you'll probably want to flip them after 1.5).
+
+If doing this in the oven, you really should use a baking stone. The stone retains heat between batches better, and transfers it more effectively to the bread. A cast iron skillet will be okay, and still has heat retaining properties. A thin baking sheet will work, but not very well.
+
+If they didn't puff up, you might not have rolled them flat enough, or they may not have risen enough (did you activate the yeast? Did you expose it to overly hot or overly cold water? Did you follow the advice for rising the dough in the oven?) As long as the stone is hot, and the pitas flat enough, they should puff up like little pillows without fail.]]></note>
+    <description><![CDATA[This easy recipe makes 8 pitas with huge pockets in the middle, ideal for stuffing, wrapping, dipping, and scooping. You can also use the pitas as pizza crusts, or to make pita chips.]]></description>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="191" uid="1301768641" name="Pita chips" source="Various"  category="" preheat="400" createdate="2011-04-02 11:34:57" submittedby="95">
+    <ingredientset id="352" name="Recipe A">
+      <ingredient amount="" description="olive oil and pitas"/>
+      <ingredient amount="1/2 tsp" description="black pepper"/>
+      <ingredient amount="1 tsp" description="garlic salt"/>
+      <ingredient amount="1/2 tsp" description="dried basil"/>
+      <ingredient amount="1 tsp" description="dried chevril"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="353" name="Recipe B">
+      <ingredient amount="" description="olive oil and pitas"/>
+      <ingredient amount="1 tbsp" description="garlic powder"/>
+      <ingredient amount="1 tsp" description="kosher salt"/>
+      <ingredient amount="1 tsp" description="garlic salt"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="354" name="Recipe C">
+      <ingredient amount="" description="olive oil and pitas"/>
+      <ingredient amount="1 to 2 cloves" description="minced garlic"/>
+      <ingredient amount="1 tsp" description="sea salt"/>
+      <ingredient amount="1/4 cup" description="fresh rosemary"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="355" name="Recipe D">
+      <ingredient amount="" description="olive oil and pitas"/>
+      <ingredient amount="1/4 tsp" description="pepper"/>
+      <ingredient amount="1/4 tsp" description="salt"/>
+      <ingredient amount="1/2 tsp" description="garlic powder"/>
+      <ingredient amount="1/4 cup" description="shredded cheese"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="356" name="Recipe E">
+      <ingredient amount="" description="olive oil and pitas"/>
+      <ingredient amount="1/2 tsp" description="pepper"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1/2 tsp" description="garlic powder"/>
+      <ingredient amount="1/2 tsp" description="basil"/>
+      <ingredient amount="1/2 tsp" description="parsley"/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Decide on ingredients to use. Mix dry ingredients]]></step>
+      <step><![CDATA[Cut pitas in 6 to 8 wedges each, and brush with oil]]></step>
+      <step><![CDATA[Sprinkle dry ingredients over pitas]]></step>
+      <step><![CDATA[Optionally sprinkle parsley over the pitas]]></step>
+      <step><![CDATA[Bake ~7 minutes]]></step>
+    </steps>
+    <rcs>
+      <rc id="91"/>
+    </rcs>
+    <description><![CDATA[Turn 6 to 12 pitas into delicious chips. Use the pita bread recipe first, or use store-bought pitas.]]></description>
+  </recipe>
+  <recipe serves="2" cooktime="5" preptime="10" id="192" uid="1309209637" name="Chai tea latte" source="http://www.grouprecipes.com/549/masala-chai.html"  category="" preheat="" createdate="2011-06-27 15:02:24" submittedby="95">
+    <ingredientset id="431" name="Masala chai mix">
+      <ingredient amount="3" description="black cardamom pods' seeds"/>
+      <ingredient amount="6" description="green cardamom pods' seeds"/>
+      <ingredient amount="6" description="peppercorns (black or white)"/>
+      <ingredient amount="2 tsp" description="fennel seeds"/>
+      <ingredient amount="1 tsp" description="ginger powder"/>
+      <ingredient amount="3" description="cloves"/>
+      <ingredient amount="2 tsp" description="cinnamon powder"/>
+      <ingredient amount="1 tsp" description="nutmeg"/>
+      <ingredient amount="1/2 tsp" description="allspice"/>
+      <ingredient amount="7 tsp or 7 bags" description="black tea (preferably Assam or Darjeeling)"/>
+      <ingredient amount="a dash" description="cayenne"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="432" name="2 mugs of chai">
+      <ingredient amount="300 mL" description="cold water"/>
+      <ingredient amount="300 mL" description="milk"/>
+      <ingredient amount="3 tsp" description="masala chai mix"/>
+      <ingredient amount="1/2 tsp" description="vanilla extract"/>
+      <ingredient amount="" description="sugar or equivalent (to taste) (* see below)"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Grind the spices (exclude the tea leaves) for the masala chai mix in a grinder. If using a coffee grinder, clean immediately. Grinding white rice will help clean a grinder. If you don't possess a grinder, either use powdered equivalents, or take a mortar and pestle to the non-ground ingredients.]]></step>
+      <step><![CDATA[Add tea leaves. Mix, and store in an airtight container.]]></step>
+      <step><![CDATA[To make the tea: add sweetener, water, and 100 mL milk to a saucepan (if not steaming/frothing the milk, add all 300 mL to the saucepan). Bring to a boil.]]></step>
+      <step><![CDATA[Lower temperature to a gentle simmer once liquid starts boiling. Add vanilla and chai mix, and simmer for 3 minutes.]]></step>
+      <step><![CDATA[(optional) While tea is simmering, steam or froth the remaining 200 mL of milk.]]></step>
+      <step><![CDATA[Strain mixture into two mugs. If you've steamed/frothed milk, pour it evenly over-top both mugs.]]></step>
+      <step><![CDATA[Enjoy]]></step>
+    </steps>
+    <rcs>
+      <rc id="85"/>
+      <rc id="108"/>
+    </rcs>
+<note><![CDATA[* Sucralose ("Splenda"), honey, and sugar (white, golden, brown, palm, or coconut sugar, whatever suits you) will work as sweeteners. Add in more if you like your chai sweeter. I've seen recipes ranging anywhere from 1 tsp to 6 tbsp of sugar per cup; in my opinion 6 tbsp is *way* too much (it's also 294 calories if you're using white sugar, never mind the blood sugar spike!), but individual tastes will vary.
+
+From my testing, stevia does not work well as a sweetener in this recipe, while sucralose's odd fruity taste goes along nicely with the spices.
+
+If not steaming the milk, apparently (according to http://yummysupper.blogspot.com/2011/02/masala-chai-latte.html ) you can get a bit of a froth by transferring the liquid between two vessels several times through a fine mesh strainer. Indian masala chai is typically not made with steamed milk.
+
+-------
+
+I may yet modify this recipe. As it stands, it's heavily modified from the "source". I've toned down the cloves and added in nutmeg, vanilla, and a little allspice to attempt to recreate a Western chai tea latte taste. It's probably milder and sweeter than an "authentic" masala chai, but it still has a pretty reasonable flavour complexity. It's also nowhere near as bland and sweet as many department store "chai tea" mixes.]]></note>
+    <description><![CDATA[This is an experimental masala chai recipe; rich but mildly spiced, it's more like a Western-style "chai tea latte" than like an Indian masala chai]]></description>
+  </recipe>
+  <recipe serves="2" cooktime="3" preptime="0" id="193" uid="1315798925" name="Chocolate mug cake" source="?"  category="" preheat="" createdate="2011-09-11 20:46:51" submittedby="95">
+    <ingredientset id="493" name="Ingredients">
+      <ingredient amount="1/4 cup (4tbsp)" description="flour"/>
+      <ingredient amount="1/4 cup" description="sugar"/>
+      <ingredient amount="2 tbsp" description="cocoa"/>
+      <ingredient amount="pinch" description="cinnamon"/>
+      <ingredient amount="1" description="egg"/>
+      <ingredient amount="3 tbsp" description="milk"/>
+      <ingredient amount="3 tbsp" description="vegetable oil"/>
+      <ingredient amount="splash" description="vanilla extract"/>
+      <ingredient amount="1" description="large coffee mug"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="494" name="Variation #1 (no egg)">
+      <ingredient amount="1/4 cup" description="flour"/>
+      <ingredient amount="1/4 cup" description="sugar"/>
+      <ingredient amount="2 tbsp" description="cocoa"/>
+      <ingredient amount="pinch" description="salt"/>
+      <ingredient amount="pinch" description="cinnamon"/>
+      <ingredient amount="1/4 cup" description="milk"/>
+      <ingredient amount="2 tbsp" description="vegetable oil"/>
+      <ingredient amount="splash" description="vanilla extract"/>
+      <ingredient amount="1" description="large coffee mug"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Add dry ingredients to mug and mix.]]></step>
+      <step><![CDATA[Add wet ingredients, mix.]]></step>
+      <step><![CDATA[Microwave on high for up to 3 minutes (may take some experimentation)]]></step>
+    </steps>
+    <rcs>
+      <rc id="78"/>
+      <rc id="83"/>
+    </rcs>
+<note><![CDATA[Variation #1 is less a 'cake' and more a 'brownie'; while it lacks the structure from the egg, it also lacks the salmonella. It requires more careful microwave timing; 2 minutes 30 seconds seems to work for my 700 watt microwave.]]></note>
+    <description><![CDATA[A warm, soft, personal-sized chocolate cake cooked in minutes in the microwave]]></description>
+  </recipe>
+  <recipe serves="4" cooktime="20" preptime="20" id="194" uid="1327344690" name="Pumpkin Shrimp Curry" source="http://www.epicurious.com/recipes/food/views/Pumpkin-Shrimp-Curry-368281"  category="" preheat="" createdate="2012-01-23 11:00:48" submittedby="95">
+    <ingredientset id="433" name="Ingredients">
+      <ingredient amount="2 tbsp" description="olive oil"/>
+      <ingredient amount="1 cup" description="sliced onion"/>
+      <ingredient amount="1 tbsp" description="minced ginger"/>
+      <ingredient amount="1 tbsp" description="minced garlic"/>
+      <ingredient amount="1" description="chopped plum tomato"/>
+      <ingredient amount="1" description="15oz can of pumpkin purée"/>
+      <ingredient amount="1 cup" description="vegetable broth"/>
+      <ingredient amount="2 cups" description="coconut milk"/>
+      <ingredient amount="1/2 tbsp" description="curry powder"/>
+      <ingredient amount="1/2 tbsp" description="garam masala"/>
+      <ingredient amount="1/4 tsp" description="cayenne"/>
+      <ingredient amount="1 cup" description="roasted, diced butternut squash"/>
+      <ingredient amount="1 lbs" description="shrimp, peeled, deveined"/>
+      <ingredient amount="1 1/2 tsp" description="lime juice"/>
+      <ingredient amount="dash" description="salt"/>
+      <ingredient amount="" description="steamed rice"/>
+      <ingredient amount="" description="cilantro"/>
+      <ingredient amount="" description="fried shallots"/>
+      <ingredient amount="" description="lime zest"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Heat oil in a large saucepan over medium heat. Add onion and ginger, sauté until soft]]></step>
+      <step><![CDATA[Add garlic, cook 1 minute]]></step>
+      <step><![CDATA[Add tomato and pumpkin. Cook until pumpkin is golden brown, about 10 minutes]]></step>
+      <step><![CDATA[Add broth, coconut milk, spices. Simmer 20 minutes.]]></step>
+      <step><![CDATA[Add squash, shrimp, and lime juice. Simmer until shrimp are cooked and squash is warm.]]></step>
+      <step><![CDATA[Add a dash of salt or to taste.]]></step>
+      <step><![CDATA[Serve with rice; top with fried shallots, cilantro, and lime zest.]]></step>
+    </steps>
+    <rcs>
+      <rc id="90"/>
+      <rc id="92"/>
+      <rc id="107"/>
+    </rcs>
+    <description><![CDATA[(NOTE: I don't know if this recipe "works." I may try it again before deciding whether to scrap it, but the first time was pretty rough)]]></description>
+  </recipe>
+  <recipe serves="4" cooktime="120" preptime="60" id="196" uid="1380496828" name="Chicken Vindaloo" source=""  category="" preheat="" createdate="2013-09-29 16:20:51" submittedby="95">
+    <ingredientset id="454" name="Ingredients">
+      <ingredient amount="3" description="chicken breasts"/>
+      <ingredient amount="1/2 cup" description="water"/>
+      <ingredient amount="1/2 to 3/4 cup" description="(optional) vegetables (e.g. cauliflower, peas)"/>
+      <ingredient amount="2 tbsp" description="(optional) fresh coriander"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="455" name="Onion sauce">
+      <ingredient amount="" description="vegetable oil"/>
+      <ingredient amount="2-3" description="large onions"/>
+      <ingredient amount="2 tbsp" description="white wine vinegar"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="456" name="Garlic/chili paste">
+      <ingredient amount="2" description="small, fresh, hot chili peppers"/>
+      <ingredient amount="12" description="cloves garlic"/>
+      <ingredient amount="2cm cube" description="fresh ginger (~1 tsp dried ginger)"/>
+      <ingredient amount="2 tsp" description="turmeric"/>
+      <ingredient amount="2 tsp" description="dried coriander powder"/>
+      <ingredient amount="2 tsp" description="garam masala"/>
+      <ingredient amount="1 tsp" description="cinnamon powder"/>
+      <ingredient amount="3 tsp" description="black peppercorns"/>
+      <ingredient amount="2 tsp" description="black mustard seeds"/>
+      <ingredient amount="1/2 tsp" description="rock salt"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="457" name="Accompaniments">
+      <ingredient amount="" description="rice"/>
+      <ingredient amount="" description="naan or roti (chapati)"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[// Onion sauce //]]></step>
+      <step><![CDATA[Pour enough vegetable oil into a frying pan to cover the base, with a little excess.]]></step>
+      <step><![CDATA[Heat oil. Slice onions into thin slivers. When the oil is hot, add the onions.]]></step>
+      <step><![CDATA[Turn the stove down to gently sauté the onions. Cook until they begin to caramelize, about 3 minutes.]]></step>
+      <step><![CDATA[Gradually increase heat, continue stirring. Brown the onions heavily without burning them.]]></step>
+      <step><![CDATA[Add the white wine vinegar, keeping in mind that it will sizzle. Continue stirring. Fry until the onions are very browned and near to (but not yet) burning.]]></step>
+      <step><![CDATA[Remove the onions into a bowl, keeping as much oil in the pan as possible.]]></step>
+      <step><![CDATA[Add onions to a blender or food processor. Add 1 tbsp oil, process until a thick, brown sauce.]]></step>
+      <step><![CDATA[Set sauce aside.]]></step>
+      <step><![CDATA[// Garlic/chili paste //]]></step>
+      <step><![CDATA[Coarsely chop the garlic, ginger, and peppers. Add to the food processor, blender, or a coffee grinder (or a food processor with a coffee grinder attachment). This may be difficult in a normal blender due to the dryness and volume of the mixture; if so, a small amount of water may help.]]></step>
+      <step><![CDATA[Blend until the mixture becomes a fairly grainy, but liquid, paste. Place in a bowl.]]></step>
+      <step><![CDATA[Add turmeric, coriander, garam masala, and cinnamon to the paste. Stir.]]></step>
+      <step><![CDATA[Crush or grind black pepper corns. Add mustard seed and rock salt. Mix. Add to paste. Stir, and set paste aside.]]></step>
+      <step><![CDATA[// Cooking //]]></step>
+      <step><![CDATA[Pour a small amount of oil into a saucepan. Heat on medium-highish. Add paste into pan, spread out well.]]></step>
+      <step><![CDATA[When sauce is bubbling, add meat. Stir to ensure that meat absorbs paste. Cook until browned.]]></step>
+      <step><![CDATA[Add onion sauce. Stir for 1 minute. Add water, stir for 2 minutes. Turn heat to fairly low.]]></step>
+      <step><![CDATA[Add vegetables if desired.]]></step>
+      <step><![CDATA[Simmer, covered, for 30-40 minutes. Check and stir every 5 to 10 minutes to prevent sticking.]]></step>
+      <step><![CDATA[Serve over rice. Sprinkle with chopped fresh coriander leaves.]]></step>
+    </steps>
+    <rcs>
+      <rc id="81"/>
+      <rc id="86"/>
+      <rc id="88"/>
+      <rc id="107"/>
+      <rc id="108"/>
+    </rcs>
+<note><![CDATA[Choose chili peppers based on the heat you're looking for. E.g. jalapeños result in a fairly mild vindaloo, habaneros make it extremely hot.]]></note>
+  </recipe>
+  <recipe serves="8" cooktime="360" preptime="20" id="198" uid="1386530978" name="Slow Cooker Butter Chicken #1" source="http://www.canadianliving.com/food/slow_cooker_butter_chicken.php"  category="" preheat="" createdate="2013-12-08 11:39:58" submittedby="95">
+    <ingredientset id="752" name="Ingredients">
+      <ingredient amount="2" description="diced onions"/>
+      <ingredient amount="3" description="cloves of garlic, minced"/>
+      <ingredient amount="3 tbsp" description="butter"/>
+      <ingredient amount="2 tbsp" description="grated fresh ginger"/>
+      <ingredient amount="2 tbsp" description="packed brown sugar"/>
+      <ingredient amount="2 tsp" description="chili powder"/>
+      <ingredient amount="3/4 tsp" description="ground coriander"/>
+      <ingredient amount="3/4 tsp" description="ground turmeric"/>
+      <ingredient amount="1/2 tsp" description="ground cinnamon"/>
+      <ingredient amount="1/2 tsp" description="ground cumin"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="1/2 tsp" description="pepper"/>
+      <ingredient amount="1" description="796 mL can diced tomatoes"/>
+      <ingredient amount="1" description="cup chicken broth"/>
+      <ingredient amount="1/4 cup" description="almond or cashew butter"/>
+      <ingredient amount="3 lbs" description="boneless, skinless chicken thighs, quartered"/>
+      <ingredient amount="1 cup" description="plain yogurt (*or substitute heavy or sour cream)"/>
+      <ingredient amount="2 tbsp" description="chopped fresh cilantro"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Add onions, garlic, butter, ginger, brown sugar, chili powder, coriander, turmeric, cinnamon, cumin, salt, pepper, and tomatoes to slow cooker.]]></step>
+      <step><![CDATA[Whisk broth with cashew/almond butter. Pour into slow cooker with the other ingredients]]></step>
+      <step><![CDATA[Cook on low for 5 to 8 hours]]></step>
+      <step><![CDATA[Purée ingredients with an immersion blender.]]></step>
+      <step><![CDATA[Add chicken, cook on high until chicken is cooked through and reaches a safe temperature; depending on the slow cooker, this could take anywhere from 45 minutes to 2 hours. Test the chicken's temperature, especially if it's your first time doing the recipe.]]></step>
+      <step><![CDATA[Stir in yogurt.]]></step>
+      <step><![CDATA[Optionally, sprinkle with fresh cilantro before serving.]]></step>
+    </steps>
+    <rcs>
+      <rc id="81"/>
+      <rc id="86"/>
+      <rc id="88"/>
+      <rc id="107"/>
+      <rc id="108"/>
+      <rc id="113"/>
+    </rcs>
+<note><![CDATA[If your slow cooker takes substantially longer than 45 minutes to cook the chicken through on High, I'd be concerned about ever using it on Low with meat.]]></note>
+    <description><![CDATA[An easy to make, mildly spiced Butter Chicken recipe. Note that chicken is added to this recipe at the end and cooked; this means you're not going to be able to just come home to a cooked meal.]]></description>
+  </recipe>
+  <recipe serves="0" cooktime="420" preptime="35" id="199" uid="1386532012" name="Slow Cooker Butter Chicken #2" source="http://www.mealplanning101.com/2008/09/slow-cooker-butter-chicken.html"  category="" preheat="" createdate="2013-12-08 11:57:57" submittedby="95">
+    <ingredientset id="565" name="Chicken and friends *">
+      <ingredient amount="1 lb" description="chicken thighs, cut into small pieces"/>
+      <ingredient amount="1" description="onion, diced"/>
+      <ingredient amount="3" description="cloves garlic, minced"/>
+      <ingredient amount="2 tbsp" description="butter"/>
+      <ingredient amount="2 tbsp" description="oil"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="566" name="Remaining ingredients">
+      <ingredient amount="10-15 **" description="green cardamom pods (or 2 tsp ground cardamom)"/>
+      <ingredient amount="2 tsp" description="curry powder"/>
+      <ingredient amount="1 tbsp ***" description="curry paste"/>
+      <ingredient amount="1 tsp" description="cayenne powder (or to taste; omit if desired)"/>
+      <ingredient amount="2 tsp" description="tandoori masala"/>
+      <ingredient amount="1 tsp" description="garam masala"/>
+      <ingredient amount="1" description="400 mL can of coconut milk"/>
+      <ingredient amount="1 cup" description="plain yogurt"/>
+      <ingredient amount="1" description="5.5 oz can of tomato paste"/>
+      <ingredient amount="salt" description="to taste"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="567" name="Accompaniments">
+      <ingredient amount="" description="basmati rice"/>
+      <ingredient amount="" description="naan"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Stir fry first set of ingredients until chicken has color and onions are translucent]]></step>
+      <step><![CDATA[Pour all ingredients into slow cooker]]></step>
+      <step><![CDATA[Cook on high for 4-6 hours or low for 6-8 hours]]></step>
+      <step><![CDATA[Remove cardamom pods before serving]]></step>
+    </steps>
+    <rcs>
+      <rc id="81"/>
+      <rc id="86"/>
+      <rc id="107"/>
+      <rc id="108"/>
+      <rc id="113"/>
+    </rcs>
+<note><![CDATA[* You can omit the stir frying step if time is an issue.
+
+** Sew the cardamom pods together, or wrap in a cheese cloth bundle to make removal easier. Could also put them in a tea bag or infuser. Or, just use the ground stuff instead.
+
+*** The source recommends "Patak's mild curry paste," which is usually available at Superstore/Loblaws alongside the other Indian foods. You want an Indian curry paste, not a Thai one.]]></note>
+    <description><![CDATA[Another butter chicken slow cooker recipe, though in this one the chicken is cooked for the duration. This is also a little more strongly spiced. I don't prefer this one, probably mostly because the recommended curry paste is super tamarindy.]]></description>
+  </recipe>
+  <recipe serves="6" cooktime="120" preptime="30" id="200" uid="1386547586" name="Roasted Butternut Squash Soup" source="http://www.chow.com/recipes/30466-roasted-butternut-squash-soup"  category="" preheat="425" createdate="2013-12-08 16:24:05" submittedby="95">
+    <ingredientset id="536" name="Ingredients">
+      <ingredient amount="4 lbs" description="Whole butternut squash (about 1 large or 2 medium)"/>
+      <ingredient amount="2 tbsp" description="butter or oil"/>
+      <ingredient amount="1" description="granny smith apple"/>
+      <ingredient amount="1/2" description="medium yellow onion"/>
+      <ingredient amount="" description="other vegetables"/>
+      <ingredient amount="8" description="fresh sage leaves"/>
+      <ingredient amount="2 1/2 cups" description="vegetable or chicken broth"/>
+      <ingredient amount="1 1/2 cups" description="water"/>
+      <ingredient amount="1 1/2 tsp" description="kosher salt (or to taste)"/>
+      <ingredient amount="1/4 tsp" description="black pepper (and more to taste)"/>
+      <ingredient amount="1 can *" description="coconut milk"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="537" name="Garnish (optional)">
+      <ingredient amount="1/2 cup" description="toasted butternut squash / pumpkin seeds"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Preheat oven to 425 F]]></step>
+      <step><![CDATA[Clean squash. Cut squash in half. Place pieces on foil-lined baking sheet, with cut sides facing up. Brush with 1 tbsp butter or oil. Season with salt and pepper. Roast until tender, about an hour.]]></step>
+      <step><![CDATA[Peel, core, cut the apple. Cook onion, apple, and sage in a dutch oven over medium heat. Add other vegetables if desired; a few carrots and celery stalks will work well. Cook until onions and apples are softened, then set aside until squash is ready.]]></step>
+      <step><![CDATA[Cool squash on a wire rack. When it's cool enough to work with, scoop flesh out into the dutch oven.]]></step>
+      <step><![CDATA[Add broth, water, salt and pepper. Bring to a boil at medium-high heat, break up the squash, and simmer on medium-low for about 15 minutes.]]></step>
+      <step><![CDATA[Stir in the coconut milk]]></step>
+      <step><![CDATA[Blend with an immersion blender until smooth.]]></step>
+      <step><![CDATA[Taste, add salt and pepper as desired.]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+      <rc id="92"/>
+      <rc id="94"/>
+    </rcs>
+<note><![CDATA[Try adding in some curry powder to make give the soup a bit of something extra.
+
+* Alternatively, do as the recipe's source does and use 1/3 cup heavy cream, increasing water to 2 1/2 cups.]]></note>
+    <description><![CDATA[Mmmmmmmmm]]></description>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="201" uid="1410826367" name="Satay sauce" source=""  category="" preheat="" createdate="2014-09-15 17:16:48" submittedby="95">
+    <ingredientset id="737" name="Ingredients">
+      <ingredient amount="about 1/2 cup" description="peanut butter, almond butter, or cashew butter"/>
+      <ingredient amount="1 or 2 tbsp" description="soy sauce"/>
+      <ingredient amount="a little" description="lime juice"/>
+      <ingredient amount="some" description="onion powder or finely diced green onions"/>
+      <ingredient amount="some" description="garlic of some form (fresh, paste, powder)"/>
+      <ingredient amount="1 can" description="coconut milk"/>
+      <ingredient amount="or" description="if no coconut milk, ~1/2 cup milk &amp; 1/4 cup yogurt"/>
+      <ingredient amount="some" description="chili flakes or chinese chili paste"/>
+      <ingredient amount="some" description="water"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Mix all ingredients in a bowl]]></step>
+      <step><![CDATA[Add to food (e.g. to stir-fried veggies and meat)]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+    </rcs>
+    <description><![CDATA[A simple Thai-style satay sauce for your stir-fried vegetables and meats]]></description>
+  </recipe>
+  <recipe serves="0" cooktime="90" preptime="40" id="202" uid="1421535536" name="Brady's Veggie Chili" source=""  category="" preheat="" createdate="2015-01-17 15:18:16" submittedby="95">
+    <ingredientset id="744" name="Ingredients">
+      <ingredient amount="2" description="medium-large yellow onions, roughly chopped"/>
+      <ingredient amount="6" description="medium tomatoes, quartered or eighthed *"/>
+      <ingredient amount="6 to 8" description="bell or other sweet chili peppers, roughly chopped"/>
+      <ingredient amount="1 to 2 lbs" description="soft and medium tofu **"/>
+      <ingredient amount="1" description="head of garlic, diced"/>
+      <ingredient amount="2 cans" description="beans (kidney beans or chickpeas recommended)"/>
+      <ingredient amount="to taste / omit" description="habanero, serrano, or other spicy chili"/>
+      <ingredient amount="1/4 to 1/2 can" description="(if necessary for thickening) tomato paste"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="745" name="Spices">
+      <ingredient amount="2 to 6 tbsp" description="chili powder ***"/>
+      <ingredient amount="to taste / omit" description="spicy chili powder (e.g. cayenne or chipotle)"/>
+      <ingredient amount="2 tsp" description="ground cumin seed"/>
+      <ingredient amount="2 tsp" description="ground coriander seed"/>
+      <ingredient amount="1 tsp" description="ground black pepper (or to taste)"/>
+      <ingredient amount="1.5 tsp" description="curry powder"/>
+      <ingredient amount="1 tsp" description="onion powder"/>
+      <ingredient amount="1.5 tsp" description="chicken bouillon, stock concentrate, etc. †"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Heat oil or melt butter in pot.†† Add onions, chili peppers, and garlic. Saute over medium-high until onions start caramelizing.]]></step>
+      <step><![CDATA[Add tomatoes, spices, and chicken bouillon. Stir. Saute for another five minutes or so. Tomatoes will start to release their liquid.]]></step>
+      <step><![CDATA[Add beans, tofu. Stir. Reduce heat to medium and let begin to cook down.]]></step>
+      <step><![CDATA[Taste, adjust if necessary.]]></step>
+      <step><![CDATA[Reduce heat to medium-low and continue to simmer uncovered until the desired thickness has nearly been achieved (probably at least 30 minutes, or possibly not until you're done cooking anyways), then cover, reduce to just high enough to simmer, and continue simmering for at least 30 minutes. Periodically stir, and taste test / adjust spices if necessary.]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+      <rc id="94"/>
+    </rcs>
+<note><![CDATA[* depending on the tomatoes and their sweetness and liquid content, you may want to dial this (and the tomato paste) up or down
+
+** I like adding both soft and medium tofu; the soft tofu turns to mush (resembling ground meat visually, but not in mouthfeel), while the medium tofu somewhat keeps its shape. You really don't need to bother pressing the medium tofu, but you can if you want it to keep its shape better and possibly soak up the chili better. You can also substitute in the same weight of your preferred ground meat.
+
+*** No Name Brand chili powder is good, smokey, and spicy
+
+† I don't say "chicken stock" because this recipe already inherently includes a lot of liquid from the vegetables and the tofu, so if using bouillon or concentrate, just add it directly. Replace with vegetable stock or simply leave this out for a pure vegetarian variant.
+
+†† I prefer not to do this one in the slow cooker, it seems to develop better at higher temperatures. Your mileage may vary. You may have too much liquid if you do this in the slow cooker as-written because of the tofu and tomatoes, so maybe omit some tomatoes and add more tomato paste to compensate.]]></note>
+    <description><![CDATA[A chili with the emphasis the on the chilis]]></description>
+  </recipe>
+  <recipe serves="4" cooktime="40" preptime="60" id="203" uid="1427067627" name="Vindaloo #2, take 2" source="Synthesis of various sources"  category="" preheat="" createdate="2015-03-22 16:43:26" submittedby="95">
+    <ingredientset id="733" name="Spice mix">
+      <ingredient amount="3 tsp" description="whole cumin seed (or 1 tsp ground)"/>
+      <ingredient amount="1 tsp" description="whole black peppercorns"/>
+      <ingredient amount="3 tsp" description="dry fenugreek leaves"/>
+      <ingredient amount="1 1/2 tsp" description="black mustard seed"/>
+      <ingredient amount="1/2 tsp" description="ground cloves"/>
+      <ingredient amount="2 tsp" description="paprika"/>
+      <ingredient amount="1" description="cinnamon stick (or 1 tsp ground)"/>
+      <ingredient amount="3 tsp" description="whole coriander seed (or 1 tsp ground)"/>
+      <ingredient amount="2 tsp" description="ground turmeric"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="734" name="Remaining wet masala mix">
+      <ingredient amount="2 tbsp" description="white wine vinegar"/>
+      <ingredient amount="2" description="medium yellow onions, roughly chopped"/>
+      <ingredient amount="1" description="serrano pepper, seeded and rougly chopped"/>
+      <ingredient amount="1 tsp" description="brown sugar"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="735" name="Ginger/garlic paste">
+      <ingredient amount="1 inch cube" description="fresh ginger"/>
+      <ingredient amount="1/2 head" description="garlic"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="736" name="The rest">
+      <ingredient amount="2" description="medium, diced tomatoes"/>
+      <ingredient amount="1.5 lbs" description="cubed chicken, lamb, or tofu*"/>
+      <ingredient amount="2" description="(optional) medium potatoes (or sweet potatoes)"/>
+      <ingredient amount="1" description="(optional) chopped bell pepper"/>
+      <ingredient amount="rice or bread" description="for serving (e.g. basmati rice, chapati, or naan)"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[WORK IN PROGRESS, especially the ingredient list]]></step>
+      <step><![CDATA[Toast the whole spices (the cumin seed, cinnamon, peppercorns, coriander seed, and mustard seed) until aromatic, about 1 minute. Then, add them and the remainder of the spice mix to spice grinder and process until smooth.]]></step>
+      <step><![CDATA[Add onions, serrano, and oil to the pan. Over medium heat, cook onions until they begin to brown, then add vinegar (watch the sizzling!). Continue to cook until the onions are very brown but not burnt.]]></step>
+      <step><![CDATA[Place onions in food processor (attempting to reserve the oil in the pan) or if necessary, a blender. Add spice mix and brown sugar. Process until a paste.]]></step>
+      <step><![CDATA[Put the onion/spice base ("wet masala") in a bowl to reserve until later. Add the ginger and garlic to the food processor and process until a paste. Add a small amount of water if necessary.]]></step>
+      <step><![CDATA[Heat pan at medium-high heat. Add ginger/garlic paste to the pan and stir while cooking until it starts to brown.]]></step>
+      <step><![CDATA[Add the wet masala to the pan and quickly stir to mix with the ginger/garlic paste. Continue stirring. Once the mix starts bubbling, add the meat (and optionally, bell pepper) and cook until browned.]]></step>
+      <step><![CDATA[Add tomatoes. Add 1 cup of water to food proccessor bowl or blender jar, swirl it around a bit to get any remaining paste out of there, and add it to the dish. Add salt and additional pepper to taste.]]></step>
+      <step><![CDATA[Cover and simmer for 40 minutes.]]></step>
+      <step><![CDATA[Optionally: cut up two (sweet) potatoes. Boil until slightly soft, about 10-15 minutes, then add them to the simmering curry for at least 15 minutes.]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+      <rc id="94"/>
+      <rc id="107"/>
+      <rc id="108"/>
+    </rcs>
+<note><![CDATA[* tofu is going to turn to mush. You should:
+
+A) Use a medium, firm, or extra-firm tofu. Soft will completely vanish.
+B) Press it.
+C) If you want to go further: Cube it, coat it in a curry powder / corn starch mix, then shallow fry or deep fry it.
+
+You should also marinate it if you're going to pre-fry it (and possibly even if not). Double the wet masala spice mix, using half to marinate the tofu along with white wine vinegar and vegetable or chicken stock.]]></note>
+    <description><![CDATA[Another vindaloo recipe after rbook ate the last one. Requires: a spice grinder, a food processor or blender, and time.]]></description>
+  </recipe>
+  <recipe serves="4" cooktime="0" preptime="0" id="204" uid="1427072505" name="Ginger carrot tofu soup" source="http://www.foodnetwork.com/recipes/food-network-kitchens/carrot-ginger-soup-with-tofu-recipe.html"  category="" preheat="" createdate="2015-03-22 18:18:55" submittedby="95">
+    <ingredientset id="750" name="Ingredients">
+      <ingredient amount="1 lbs" description="frozen carrots"/>
+      <ingredient amount="1" description="small onion"/>
+      <ingredient amount="1" description="2 to 3 inch piece of fresh ginger"/>
+      <ingredient amount="1/2 tsp" description="five-spice powder"/>
+      <ingredient amount="2 cups" description="carrot juice"/>
+      <ingredient amount="1 lbs" description="tofu (medium or firm)"/>
+      <ingredient amount="1/2 cup" description="corn starch"/>
+      <ingredient amount="1.5 tbsp" description="curry powder"/>
+      <ingredient amount="1 cup" description="chicken or vegetable stock"/>
+      <ingredient amount="2 cups" description="water"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="751" name="Marinade *">
+      <ingredient amount="3 inch cube" description="grated ginger"/>
+      <ingredient amount="2 tbsp" description="soy sauce"/>
+      <ingredient amount="1 tbsp" description="lemon juice"/>
+      <ingredient amount="1 tbsp" description="curry powder"/>
+      <ingredient amount="1 tbsp" description="garlic powder"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Press tofu (cut into slices, sit it between two towels, and set something heavy on top; leave for 30 minutes). Cube it. Marinate it in the describe marinade.]]></step>
+      <step><![CDATA[Meanwhile, heat oil at medium heat. Add vegetables, cook until just becoming soft, about five minutes. Add five-spice, carrot juice, stock, and water. Season with salt and pepper to taste, then simmer until tender (about 20 minutes).]]></step>
+      <step><![CDATA[Dry the tofu. Mix corn starch and curry powder, then coat the tofu with it. Over high heat, shallow fry tofu in batches until crispy.]]></step>
+      <step><![CDATA[After soup is done simmering, blend with an immersion blender (or carefully add to a normal blender and blend in batches). Ladle into bowls and top with the fried tofu.]]></step>
+    </steps>
+    <rcs>
+      <rc id="86"/>
+      <rc id="92"/>
+      <rc id="94"/>
+    </rcs>
+<note><![CDATA[* Marinade is work in progress. The dish is fine without, but the tofu is flavorless since it has no time to absorb the flavors from the soup.]]></note>
+    <description><![CDATA[This carrot soup with a ginger zing can stand on its own as a main. It's a nice example of tofu not simply being used as a "meat substitute".]]></description>
+  </recipe>
+  <recipe serves="6" cooktime="0" preptime="0" id="187" uid="1287032460" name="Fragrant Beef Curry" source="http://www.epicurious.com"  category="" preheat="" createdate="2010-10-13 22:07:49" submittedby="100">
+    <ingredientset id="293" name="Ingredients">
+      <ingredient amount="2 pounds" description="beef in 1 inch pieces"/>
+      <ingredient amount="3 tbsp" description="veg oil"/>
+      <ingredient amount="2" description="large onions (or 1 very large), sliced"/>
+      <ingredient amount="1/2 tsp" description="cloves (= 6 whole cloves)"/>
+      <ingredient amount="2" description="garlic cloves"/>
+      <ingredient amount="1 tsp" description="cinnamon"/>
+      <ingredient amount="1" description="bay leaf"/>
+      <ingredient amount="1/4 tsp" description="dry crushed red peppers"/>
+      <ingredient amount="1 1/2 cups" description="milk or coconut-milk"/>
+      <ingredient amount="3" description="large tomatoes, quartered"/>
+      <ingredient amount="3 tbsp" description="chutney"/>
+      <ingredient amount="3 tbsp" description="lemon juice"/>
+      <ingredient amount="2 tbsp" description="peeled fresh ginger"/>
+      <ingredient amount="1 1/2 tbsp" description="curry powder"/>
+      <ingredient amount="1/2 tsp" description="salt"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[Sprinkle beef with salt and pepper. Heat 2 tablespoons oil in heavy large pot over high heat. Working in batches, add beef to pot and brown on all sides, about 7 minutes per batch. Using slotted spoon, transfer to plate.]]></step>
+      <step><![CDATA[Heat remaining 1 tablespoon oil in same pot over medium-high heat. Add onions; sauté until tender and brown, about 7 minutes. Return beef to pot. Add cloves, garlic, cinnamon sticks, bay leaf and dried red pepper to pot; stir 1 minute. Stir in milk, tomatoes, chutney, lemon juice, ginger, curry powder and 1/2 teaspoon salt and bring to boil. Reduce heat, cover and simmer until beef is tender, stirring occasionally, about 2 hours. ]]></step>
+      <step><![CDATA[Uncover; increase heat to medium. Boil stew until juices are slightly thickened, about 10 minutes. Serve over rice.]]></step>
+    </steps>
+    <rcs>
+      <rc id="107"/>
+      <rc id="108"/>
+    </rcs>
+  </recipe>
+  <recipe serves="0" cooktime="0" preptime="0" id="188" uid="1287277726" name="Classic Waffles" source="http://allrecipes.com/Recipe/Waffles-I/Detail.aspx"  category="" preheat="" createdate="2010-10-16 18:16:06" submittedby="100">
+    <ingredientset id="300" name="Ingredients">
+      <ingredient amount="2 cups" description="flour"/>
+      <ingredient amount="1 tsp" description="salt"/>
+      <ingredient amount="4 tsp" description="baking powder"/>
+      <ingredient amount="2 tbsp" description="white sugar"/>
+      <ingredient amount="2" description="eggs"/>
+      <ingredient amount="1 1/2 cups" description="warm milk"/>
+      <ingredient amount="1/3 cup" description="butter, melted"/>
+      <ingredient amount="1 tsp" description="vanilla extract"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <ingredientset id="301" name="Ingredients Doubled">
+      <ingredient amount="4 cups" description="flour"/>
+      <ingredient amount="2 tsp" description="salt"/>
+      <ingredient amount="8 tsp" description="baking powder"/>
+      <ingredient amount="4 tbsp" description="white sugar"/>
+      <ingredient amount="4" description="eggs"/>
+      <ingredient amount="3 cups" description="warm milk"/>
+      <ingredient amount="2/3 cup" description="butter, melted"/>
+      <ingredient amount="2 tsp" description="vanilla extract"/>
+      <ingredient amount="" description=""/>
+    </ingredientset>
+    <steps>
+      <step><![CDATA[In a large bowl, mix together flour, salt, baking powder and sugar; set aside. ]]></step>
+      <step><![CDATA[In a separate bowl, beat the eggs. Stir in the milk, butter and vanilla. Pour the milk mixture into the flour mixture; beat until blended.]]></step>
+    </steps>
+    <rcs>
+      <rc id="109"/>
+    </rcs>
+<note><![CDATA[Original recipe yields 10-12 waffles.]]></note>
+  </recipe>
+</recipes>
+<invitations>
+  <invitation invitee="86" inviter="86" code="fc909e91c617cb1ddd1912aeca566e3f" acceptdate="2010-07-21 15:37:29"/>  <invitation invitee="87" inviter="87" code="fc909e91c617cb1ddd1912aeca566e3f" acceptdate="2010-07-21 15:37:29"/>  <invitation invitee="88" inviter="87" code="fc909e91c617cb1ddd1912aeca566e3f" acceptdate="2010-07-21 15:37:29"/>  <invitation invitee="89" inviter="87" code="fc909e91c617cb1ddd1912aeca566e3f" acceptdate="2010-07-21 15:37:29"/>  <invitation invitee="95" inviter="95" code="fc909e91c617cb1ddd1912aeca566e3f" acceptdate="2010-07-21 15:37:29"/></invitations>
+<myrecipes>
+</myrecipes>
+<images>
+</images>
+<comments>
+</comments>
+</rbook>
